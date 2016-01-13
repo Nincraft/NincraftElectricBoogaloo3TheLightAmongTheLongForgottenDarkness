@@ -38,6 +38,6 @@ Current Mod Versions
 - **OpenComputers** v1.5.21.1 by Florian 'Sangar' Nuecke, Johannes 'Lord Joda' Lohrer, Everyone who contributed to the mod on Github - thank you!
 - **Random Things** v3.5.7 by Lumien
 - **Simple Retrogen** v2.1
-- **Thaumcraft** v5.1.1 by Azanor
+- **Thaumcraft** v5.1.2 by Azanor
 - **Tinkers' Construct** v1.8.8-2.0.1
 - **TIS-3D** v0.8.1.5 by Sangar
