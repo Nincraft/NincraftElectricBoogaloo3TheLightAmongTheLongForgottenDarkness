@@ -16,6 +16,7 @@ Current Mod Versions
 - **Biomes O' Plenty** v3.0.0 by Adubbz, Amnet, Cheeserolls, Forstride, ted80
 - **Blood Magic: Alchemical Wizardry** v1.8.9-2.0.0-3 by WayofTime
 - **Bloodmoon** v1.2 by lumien
+- **Botania** r1.8-249 by Vazkii
 - **BuildCraft** v7.2.0-pre6 by SpaceToad, BuildCraft Team
 - **Charset** v0.1.1 by asiekierka
 - **Chisels & Bits** v@version@ by AlgorithmX2
@@ -24,12 +25,14 @@ Current Mod Versions
 - **Forge Mod Loader** v8.0.99.99 by cpw, LexManos, Player
 - **HelpFixer** v1.8.9-1.2.12 by matthewprenger
 - **Inventory Tweaks** v1.60-dev-27-43ecdd2
+- **Iron Chest** v6.0.115.759
 - **JourneyMap** v5.1.3 by techbrew, mysticdrew
 - **Just Enough Items** v2.14.0.67 by mezz
 - **Mantle** v1.8.8-0.6.jenkins60
 - **MCMultiPart** v1.0.3
 - **Minecraft Coder Pack** v9.18
 - **Minecraft Forge** v11.15.0.1688 by LexManos, cpw, fry
+- **Neat** by Vazkii
 - **Nin's Mod Lister** v1.8.9-2.0.25 by Nincodedo
 - **OpenComputers (Core)** v1.5.21.1 by Sangar
 - **OpenComputers** v1.5.21.1 by Florian 'Sangar' Nuecke, Johannes 'Lord Joda' Lohrer, Everyone who contributed to the mod on Github - thank you!
