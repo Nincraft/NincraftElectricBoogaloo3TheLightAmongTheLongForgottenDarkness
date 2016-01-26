@@ -28,7 +28,7 @@ Current Mod Versions
 - **Iron Chest** v6.0.115.759
 - **JourneyMap** v5.1.3 by techbrew, mysticdrew
 - **Just Enough Items** v2.14.0.67 by mezz
-- **Mantle** v1.8.8-0.6.jenkins60
+- **Mantle** v1.8.9-0.7.jenkins72
 - **MCMultiPart** v1.0.3
 - **Neat** by Vazkii
 - **Minecraft Coder Pack** v9.19
@@ -40,5 +40,5 @@ Current Mod Versions
 - **Simple Retrogen** v2.1
 - **Substratum** v1.0.0.0
 - **Thaumcraft** v5.1.2 by Azanor
-- **Tinkers' Construct** v1.8.8-2.0.1
+- **Tinkers' Construct** v1.8.9-2.0.2.jenkins61
 - **TIS-3D** v0.8.1.5 by Sangar
