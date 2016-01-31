@@ -1,0 +1,32 @@
+<assembly>
+    <id>client</id>
+    <formats>
+        <format>zip</format>
+    </formats>
+    <includeBaseDirectory>false</includeBaseDirectory>
+    <fileSets>
+    	<fileSet>
+			<directory>all</directory>
+			<outputDirectory>/</outputDirectory>
+			<excludes>
+                <exclude>*.disabled</exclude>
+            </excludes>
+    	</fileSet>
+        <fileSet>
+            <directory>config</directory>
+            <outputDirectory>/config</outputDirectory>
+            <filtered>true</filtered>
+        </fileSet>
+        <fileSet>
+            <directory>scripts</directory>
+            <outputDirectory>/scripts</outputDirectory>
+        </fileSet>
+        <fileSet>
+            <directory>client</directory>
+            <outputDirectory>/</outputDirectory>
+            <excludes>
+                <exclude>*.disabled</exclude>
+            </excludes>
+        </fileSet>
+    </fileSets>
+</assembly>
