@@ -8,9 +8,10 @@
     	<fileSet>
 			<directory>all</directory>
 			<outputDirectory>/</outputDirectory>
-			<excludes>
-                <exclude>*.disabled</exclude>
-            </excludes>
+			<includes>
+                <include>loaders/*.*</include>
+                <include>mods/*.*</include>
+            </includes>
     	</fileSet>
         <fileSet>
             <directory>config</directory>
@@ -24,9 +25,9 @@
         <fileSet>
             <directory>client</directory>
             <outputDirectory>/</outputDirectory>
-            <excludes>
-                <exclude>*.disabled</exclude>
-            </excludes>
+            <includes>
+                <include>mods/*.*</include>
+            </includes>
         </fileSet>
     </fileSets>
 </assembly>
