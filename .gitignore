@@ -261,3 +261,4 @@ config/splash.properties
 config/iChunUtil_Stats.cfg
 config/fastcraft.ini
 config/cofh/thermaldynamics/client.cfg
+*.jar

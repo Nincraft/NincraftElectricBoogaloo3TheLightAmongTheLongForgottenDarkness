@@ -1,0 +1,26 @@
+<assembly>
+    <id>client-ftb</id>
+    <formats>
+        <format>zip</format>
+    </formats>
+    <includeBaseDirectory>false</includeBaseDirectory>
+    <fileSets>
+    	<fileSet>
+			<directory>all/mods</directory>
+			<outputDirectory>minecraft/mods</outputDirectory>
+    	</fileSet>
+        <fileSet>
+            <directory>config</directory>
+            <outputDirectory>minecraft/config</outputDirectory>
+            <filtered>true</filtered>
+        </fileSet>
+        <fileSet>
+            <directory>scripts</directory>
+            <outputDirectory>minecraft/scripts</outputDirectory>
+        </fileSet>
+        <fileSet>
+            <directory>client/mods</directory>
+            <outputDirectory>minecraft/mods</outputDirectory>
+        </fileSet>
+    </fileSets>
+</assembly>
