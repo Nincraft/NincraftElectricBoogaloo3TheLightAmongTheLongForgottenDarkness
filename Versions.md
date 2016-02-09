@@ -29,6 +29,8 @@ Current Mod Versions
 - **Fast Leave Decay** v1.1 by lumien
 - **Forge Mod Loader** v8.0.99.99 by cpw, LexManos, Player
 - **HelpFixer** v1.8.9-1.2.12 by matthewprenger
+- **Immersive Craft** v1.0.3 by McJty
+- **Intangible** v0.0.19 by Emoniph
 - **Inventory Tweaks** v1.60-beta-30-48a432c
 - **Iron Chest** v6.0.123.769
 - **JourneyMap** v5.1.3 by techbrew, mysticdrew
