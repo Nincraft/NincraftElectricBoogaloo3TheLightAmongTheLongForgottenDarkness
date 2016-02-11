@@ -44,6 +44,7 @@ Current Mod Versions
 - **Not Enough Wands** v1.2.7 by romelo333, McJty
 - **OpenComputers** v1.5.22.6 by Florian 'Sangar' Nuecke, Johannes 'Lord Joda' Lohrer, Everyone who contributed to the mod on Github - thank you!
 - **OpenComputers (Core)** v1.5.22.6 by Sangar
+- **Psi** vbeta-11 by Vazkii
 - **Random Things** v3.5.8 by Lumien
 - **Simple Retrogen** v2.2.2+3
 - **Substratum** v1.1.0.1
