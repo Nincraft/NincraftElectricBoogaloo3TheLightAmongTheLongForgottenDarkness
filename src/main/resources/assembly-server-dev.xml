@@ -1,44 +1,60 @@
 <assembly>
-    <id>server</id>
+    <id>server-dev</id>
     <formats>
         <format>zip</format>
     </formats>
     <includeBaseDirectory>false</includeBaseDirectory>
     <fileSets>
         <fileSet>
-            <directory>all</directory>
+            <directory>common/base</directory>
             <outputDirectory>/</outputDirectory>
             <includes>
                 <include>loaders/*.*</include>
                 <include>mods/*.*</include>
+                <include>scripts/*.*</include>
             </includes>
         </fileSet>
         <fileSet>
-            <directory>config</directory>
+            <directory>common/dev</directory>
+            <outputDirectory>/</outputDirectory>
+            <includes>
+                <include>mods/*.*</include>
+                <include>scripts/*.*</include>
+            </includes>
+        </fileSet>
+        <fileSet>
+            <directory>common/base/config</directory>
             <outputDirectory>/config</outputDirectory>
             <filtered>true</filtered>
         </fileSet>
         <fileSet>
-            <directory>scripts</directory>
-            <outputDirectory>/scripts</outputDirectory>
-        </fileSet>
-        <fileSet>
-            <directory>server/mods</directory>
-            <outputDirectory>/mods</outputDirectory>
-        </fileSet>
-        <fileSet>
-            <directory>dev</directory>
+            <directory>server/base</directory>
             <outputDirectory>/</outputDirectory>
             <includes>
                 <include>mods/*.*</include>
+                <include>scripts/*.*</include>
             </includes>
         </fileSet>
-    </fileSets>
-    <files>
-        <file>
-            <source>server/server.properties</source>
+        <fileSet>
+            <directory>server/dev</directory>
+            <outputDirectory>/</outputDirectory>
+            <includes>
+                <include>mods/*.*</include>
+                <include>scripts/*.*</include>
+            </includes>
+        </fileSet>
+        <fileSet>
+            <directory>server/dev</directory>
             <outputDirectory>/</outputDirectory>
             <filtered>true</filtered>
-        </file>
-    </files>
+            <includes>
+                <include>*.properties</include>
+            </includes>
+        </fileSet>
+        <fileSet>
+            <directory>server/base/config</directory>
+            <outputDirectory>/config</outputDirectory>
+            <filtered>true</filtered>
+        </fileSet>
+    </fileSets>
 </assembly>
