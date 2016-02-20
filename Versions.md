@@ -4,6 +4,10 @@ Current Forge Version
 
 Current Mod Versions
 =
+- **#** v0.2.1 by asiekierka
+- **&** v0.2.1 by asiekierka
+- ***** v0.2.1 by asiekierka
+- **+** v0.2.1 by asiekierka
 - **AppleCore** v1.3.0 by squeek
 - **Aroma1997Core** v${version} by Aroma1997, Schillaa
 - **Aroma1997Core|Helper** v1.0.3.4.b58
@@ -23,7 +27,6 @@ Current Mod Versions
 - **Bloodmoon** v1.2 by lumien
 - **Botania** r1.8-249 by Vazkii
 - **BuildCraft** v7.2.0-pre6 by SpaceToad, BuildCraft Team
-- **Charset** v0.2.1 by asiekierka
 - **Chisels & Bits** vmc1.8.9-v1.8.10 by AlgorithmX2
 - **Durability Show** v2.1.2 by Six-One-Three
 - **Fast Leave Decay** v1.1 by lumien
@@ -34,7 +37,7 @@ Current Mod Versions
 - **Inventory Tweaks** v1.60-beta-30-48a432c
 - **Iron Chest** v6.0.123.769
 - **JourneyMap** v5.1.3 by techbrew, mysticdrew
-- **Just Enough Items** v2.26.0.154 by mezz
+- **Just Enough Items** v2.27.2.159 by mezz
 - **Mantle** v1.8.9-0.7.jenkins72
 - **MCMultiPart** v1.0.5
 - **Minecraft Coder Pack** v9.19
@@ -44,10 +47,13 @@ Current Mod Versions
 - **Not Enough Wands** v1.2.8 by romelo333, McJty
 - **OpenComputers** v1.5.22.6 by Florian 'Sangar' Nuecke, Johannes 'Lord Joda' Lohrer, Everyone who contributed to the mod on Github - thank you!
 - **OpenComputers (Core)** v1.5.22.6 by Sangar
-- **Psi** vbeta-12 by Vazkii
+- **Psi** vbeta-14 by Vazkii
 - **Random Things** v3.6.2 by Lumien
 - **Simple Retrogen** v2.2.2+3
 - **Substratum** v1.1.0.1
 - **Thaumcraft** v5.1.6 by Azanor
 - **Tinkers' Construct** v1.8.9-2.0.2.jenkins61
 - **TIS-3D** v0.8.3.13 by Sangar
+- **|** v0.2.1 by asiekierka
+- **â€½** v0.2.1 by asiekierka
+- **â™«** v0.2.1 by asiekierka

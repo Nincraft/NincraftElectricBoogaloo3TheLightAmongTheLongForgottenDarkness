@@ -1,0 +1,8 @@
+{
+    "thirdParty": [
+        {
+        	"name": "ForgeAutoShutdown",
+            "url": "https://github.com/Nincraft/ForgeAutoShutdown/releases/download/1.0.8/ForgeAutoShutdown-1.0.8.jar"
+        }
+    ]
+}
