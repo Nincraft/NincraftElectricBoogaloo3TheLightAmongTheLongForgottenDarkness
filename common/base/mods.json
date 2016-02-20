@@ -61,7 +61,7 @@
             "projectID": 228756
         },
         {
-            "fileID": 2282760,
+            "fileID": 2282784,
             "name": "just-enough-items-jei",
             "projectID": 238222
         },
@@ -139,6 +139,11 @@
             "fileID": 2282007,
             "name": "psi",
             "projectID": 241665
+        },
+        {
+            "fileID": 2282836,
+            "name": "in-case-of-emergency",
+            "projectID": 241925
         }
     ],
     "thirdParty": [
