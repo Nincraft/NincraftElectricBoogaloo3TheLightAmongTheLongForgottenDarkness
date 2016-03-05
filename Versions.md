@@ -1,6 +1,6 @@
 Current Forge Version
 =
-- **Forge** v11.15.1.1724
+- **Forge** v11.15.1.1726
 
 Current Mod Versions
 =
@@ -10,7 +10,7 @@ Current Mod Versions
 - **+** v0.2.1 by asiekierka
 - **AppleCore** v1.3.0 by squeek
 - **Aroma1997Core** v${version} by Aroma1997, Schillaa
-- **Aroma1997Core|Helper** v1.0.3.4.b58
+- **Aroma1997Core|Helper** v1.0.4.0
 - **AromaBackup** v0.0.1.1.b26
 - **AromaBackup Recovery** v1.0
 - **Baubles** v1.1.3.0 by Azanor
@@ -33,7 +33,7 @@ Current Mod Versions
 - **Forge Mod Loader** v8.0.99.99 by cpw, LexManos, Player
 - **HelpFixer** v1.8.9-1.2.12 by matthewprenger
 - **Immersive Craft** v1.1.0 by McJty
-- **In Case of Emergency** v1.1.2 by Ben "535" Blank
+- **In Case of Emergency** v1.1.4 by Ben "535" Blank
 - **Intangible** v0.0.19 by Emoniph
 - **Inventory Tweaks** v1.60-beta-30-48a432c
 - **Iron Chest** v6.0.123.769
@@ -42,14 +42,14 @@ Current Mod Versions
 - **Mantle** v1.8.9-0.7.jenkins72
 - **MCMultiPart** v1.0.5
 - **Minecraft Coder Pack** v9.19
-- **Minecraft Forge** v11.15.1.1724 by LexManos, cpw, fry
+- **Minecraft Forge** v11.15.1.1726 by LexManos, cpw, fry
 - **Neat** vGRADLE:VERSION-GRADLE:BUILD by Vazkii
 - **Nin's Mod Lister** v1.8.9-2.0.26 by Nincodedo
 - **Not Enough Wands** v1.2.8 by romelo333, McJty
 - **OpenComputers** v1.5.22.6 by Florian 'Sangar' Nuecke, Johannes 'Lord Joda' Lohrer, Everyone who contributed to the mod on Github - thank you!
 - **OpenComputers (Core)** v1.5.22.6 by Sangar
-- **Psi** vbeta-14 by Vazkii
-- **Random Things** v3.6.2 by Lumien
+- **Psi** vbeta-19 by Vazkii
+- **Random Things** v3.6.3 by Lumien
 - **Simple Retrogen** v2.2.2+3
 - **Substratum** v1.1.0.1
 - **Thaumcraft** v5.1.6 by Azanor

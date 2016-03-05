@@ -1,14 +1,34 @@
 {
     "curseFiles": [
         {
-            "fileID": 2273274,
-            "name": "baubles",
-            "projectID": 227083
-        },
-        {
             "fileID": 2277394,
             "name": "applecore",
             "projectID": 224472
+        },
+        {
+            "fileID": 2284622,
+            "name": "aroma1997core",
+            "projectID": 223735
+        },
+        {
+            "fileID": 2284622,
+            "name": "aroma1997core",
+            "projectID": 223735
+        },
+        {
+            "fileID": 2277001,
+            "name": "aromabackup",
+            "projectID": 225658
+        },
+        {
+            "fileID": 2277001,
+            "name": "aromabackup",
+            "projectID": 225658
+        },
+        {
+            "fileID": 2273274,
+            "name": "baubles",
+            "projectID": 227083
         },
         {
             "fileID": 2274840,
@@ -51,6 +71,36 @@
             "projectID": 223797
         },
         {
+            "fileID": 2281942,
+            "name": "immersive-craft",
+            "projectID": 241268
+        },
+        {
+            "fileID": 2281942,
+            "name": "immersive-craft",
+            "projectID": 241268
+        },
+        {
+            "fileID": 2283028,
+            "name": "in-case-of-emergency",
+            "projectID": 241925
+        },
+        {
+            "fileID": 2283028,
+            "name": "in-case-of-emergency",
+            "projectID": 241925
+        },
+        {
+            "fileID": 2280666,
+            "name": "intangible",
+            "projectID": 241350
+        },
+        {
+            "fileID": 2280666,
+            "name": "intangible",
+            "projectID": 241350
+        },
+        {
             "fileID": 2275675,
             "name": "inventory-tweaks",
             "projectID": 223094
@@ -86,7 +136,12 @@
             "projectID": 223008
         },
         {
-            "fileID": 2280769,
+            "fileID": 2284425,
+            "name": "psi",
+            "projectID": 241665
+        },
+        {
+            "fileID": 2283433,
             "name": "random-things",
             "projectID": 59816
         },
@@ -101,55 +156,25 @@
             "projectID": 241113
         },
         {
-            "fileID": 2276883,
-            "name": "tinkers-construct",
-            "projectID": 74072
-        },
-        {
             "fileID": 2279928,
             "name": "thaumcraft",
             "projectID": 223628
         },
         {
+            "fileID": 2276883,
+            "name": "tinkers-construct",
+            "projectID": 74072
+        },
+        {
             "fileID": 2279788,
             "name": "tis-3d",
             "projectID": 238603
-        },
-        {
-            "fileID": 2277001,
-            "name": "aromabackup",
-            "projectID": 225658
-        },
-        {
-            "fileID": 2277002,
-            "name": "aroma1997core",
-            "projectID": 223735
-        },
-        {
-            "fileID": 2280666,
-            "name": "intangible",
-            "projectID": 241350
-        },
-        {
-            "fileID": 2281942,
-            "name": "immersive-craft",
-            "projectID": 241268
-        },
-        {
-            "fileID": 2282007,
-            "name": "psi",
-            "projectID": 241665
-        },
-        {
-            "fileID": 2282836,
-            "name": "in-case-of-emergency",
-            "projectID": 241925
         }
     ],
     "thirdParty": [
         {
             "name": "Botania",
-            "url": "https://github.com/williewillus/Botania/releases/download/v0.5.3-beta/Botania.r1.8-248-MC1.8-779cc76.jar"
+            "url": "https://github.com/williewillus/Botania/releases/download/v0.6.2-beta/Botania.r1.8-248-unofficial-0.6.2.jar"
         },
         {
             "name": "Buildcraft",
