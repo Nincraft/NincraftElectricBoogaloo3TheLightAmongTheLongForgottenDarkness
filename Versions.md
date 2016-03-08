@@ -1,16 +1,17 @@
 Current Forge Version
 =
-- **Forge** v11.15.1.1726
+- **Forge** v11.15.1.1764
 
 Current Mod Versions
 =
-- **#** v0.2.1 by asiekierka
-- **&** v0.2.1 by asiekierka
-- ***** v0.2.1 by asiekierka
-- **+** v0.2.1 by asiekierka
+- **!** v0.2.3 by asiekierka
+- **#** v0.2.3 by asiekierka
+- **&** v0.2.3 by asiekierka
+- ***** v0.2.3 by asiekierka
+- **+** v0.2.3 by asiekierka
 - **AppleCore** v1.3.0 by squeek
 - **Aroma1997Core** v${version} by Aroma1997, Schillaa
-- **Aroma1997Core|Helper** v1.0.4.0
+- **Aroma1997Core|Helper** v1.0.4.1
 - **AromaBackup** v0.0.1.1.b26
 - **AromaBackup Recovery** v1.0
 - **Baubles** v1.1.3.0 by Azanor
@@ -27,34 +28,35 @@ Current Mod Versions
 - **Bloodmoon** v1.2 by lumien
 - **Botania** r1.8-249 by Vazkii
 - **BuildCraft** v7.2.0-pre6 by SpaceToad, BuildCraft Team
-- **Chisels & Bits** vmc1.8.9-v1.8.10 by AlgorithmX2
+- **Chisels & Bits** vmc1.8.9-v1.8.11 by AlgorithmX2
+- **denseores** v1.0
 - **Durability Show** v2.1.2 by Six-One-Three
 - **Fast Leave Decay** v1.1 by lumien
 - **Forge Mod Loader** v8.0.99.99 by cpw, LexManos, Player
 - **HelpFixer** v1.8.9-1.2.12 by matthewprenger
 - **Immersive Craft** v1.1.0 by McJty
-- **In Case of Emergency** v1.1.4 by Ben "535" Blank
+- **In Case of Emergency** v1.1.5 by Ben "535" Blank
 - **Intangible** v0.0.19 by Emoniph
 - **Inventory Tweaks** v1.60-beta-30-48a432c
 - **Iron Chest** v6.0.123.769
-- **JourneyMap** v5.1.3 by techbrew, mysticdrew
-- **Just Enough Items** v2.28.0.160 by mezz
+- **JourneyMap** v1.8.9-5.1.5 by techbrew, mysticdrew
+- **Just Enough Items** v2.28.6.173 by mezz
 - **Mantle** v1.8.9-0.7.jenkins72
 - **MCMultiPart** v1.0.5
 - **Minecraft Coder Pack** v9.19
-- **Minecraft Forge** v11.15.1.1726 by LexManos, cpw, fry
+- **Minecraft Forge** v11.15.1.1764 by LexManos, cpw, fry
 - **Neat** vGRADLE:VERSION-GRADLE:BUILD by Vazkii
 - **Nin's Mod Lister** v1.8.9-2.0.26 by Nincodedo
-- **Not Enough Wands** v1.2.8 by romelo333, McJty
+- **Not Enough Wands** v1.2.9 by romelo333, McJty
 - **OpenComputers** v1.5.22.6 by Florian 'Sangar' Nuecke, Johannes 'Lord Joda' Lohrer, Everyone who contributed to the mod on Github - thank you!
 - **OpenComputers (Core)** v1.5.22.6 by Sangar
 - **Psi** vbeta-19 by Vazkii
-- **Random Things** v3.6.3 by Lumien
+- **Random Things** v3.6.4 by Lumien
 - **Simple Retrogen** v2.2.2+3
 - **Substratum** v1.1.0.1
-- **Thaumcraft** v5.1.6 by Azanor
+- **Thaumcraft** v5.2.1 by Azanor
 - **Tinkers' Construct** v1.8.9-2.0.2.jenkins61
 - **TIS-3D** v0.8.3.13 by Sangar
-- **|** v0.2.1 by asiekierka
-- **â€½** v0.2.1 by asiekierka
-- **â™«** v0.2.1 by asiekierka
+- **|** v0.2.3 by asiekierka
+- **â€½** v0.2.3 by asiekierka
+- **â™«** v0.2.3 by asiekierka

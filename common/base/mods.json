@@ -6,7 +6,7 @@
             "projectID": 224472
         },
         {
-            "fileID": 2284622,
+            "fileID": 2284760,
             "name": "aroma1997core",
             "projectID": 223735
         },
@@ -41,9 +41,14 @@
             "projectID": 226321
         },
         {
-            "fileID": 2280253,
+            "fileID": 2282874,
             "name": "chisels-bits",
             "projectID": 231095
+        },
+        {
+            "fileID": 2285948,
+            "name": "dense-ores",
+            "projectID": 224942
         },
         {
             "fileID": 2273148,
@@ -66,7 +71,7 @@
             "projectID": 241268
         },
         {
-            "fileID": 2283028,
+            "fileID": 2285583,
             "name": "in-case-of-emergency",
             "projectID": 241925
         },
@@ -86,7 +91,7 @@
             "projectID": 228756
         },
         {
-            "fileID": 2282784,
+            "fileID": 2284241,
             "name": "just-enough-items-jei",
             "projectID": 238222
         },
@@ -101,7 +106,7 @@
             "projectID": 239431
         },
         {
-            "fileID": 2280806,
+            "fileID": 2285846,
             "name": "not-enough-wands",
             "projectID": 235595
         },
@@ -116,7 +121,7 @@
             "projectID": 241665
         },
         {
-            "fileID": 2283433,
+            "fileID": 2283795,
             "name": "random-things",
             "projectID": 59816
         },
@@ -131,7 +136,7 @@
             "projectID": 241113
         },
         {
-            "fileID": 2279928,
+            "fileID": 2285288,
             "name": "thaumcraft",
             "projectID": 223628
         },
@@ -157,7 +162,7 @@
         },
         {
             "name": "Charset",
-            "url": "http://charset.asie.pl/files/Charset-0.2.1-945baf5589832f727c42cf77.jar"
+            "url": "http://charset.asie.pl/files/Charset-0.2.3-55a8a6f20188d07d8fb9c2a9.jar"
         }
     ]
 }
