@@ -61,12 +61,22 @@
             "projectID": 225839
         },
         {
+            "fileID": 2276325,
+            "name": "ftb-utilities",
+            "projectID": 237102
+        },
+        {
+            "fileID": 2276324,
+            "name": "ftblib",
+            "projectID": 237167
+        },
+        {
             "fileID": 2272962,
             "name": "helpfixer",
             "projectID": 223797
         },
         {
-            "fileID": 2281942,
+            "fileID": 2286514,
             "name": "immersive-craft",
             "projectID": 241268
         },
@@ -76,9 +86,10 @@
             "projectID": 241925
         },
         {
-            "fileID": 2280666,
+            "fileID": 2284654,
             "name": "intangible",
-            "projectID": 241350
+            "projectID": 241350,
+            "release": "beta"
         },
         {
             "fileID": 2275675,
@@ -91,7 +102,7 @@
             "projectID": 228756
         },
         {
-            "fileID": 2284241,
+            "fileID": 2285357,
             "name": "just-enough-items-jei",
             "projectID": 238222
         },
@@ -116,12 +127,13 @@
             "projectID": 223008
         },
         {
-            "fileID": 2284425,
+            "fileID": 2286979,
             "name": "psi",
-            "projectID": 241665
+            "projectID": 241665,
+            "release": "beta"
         },
         {
-            "fileID": 2283795,
+            "fileID": 2287173,
             "name": "random-things",
             "projectID": 59816
         },
@@ -136,7 +148,7 @@
             "projectID": 241113
         },
         {
-            "fileID": 2285288,
+            "fileID": 2287099,
             "name": "thaumcraft",
             "projectID": 223628
         },

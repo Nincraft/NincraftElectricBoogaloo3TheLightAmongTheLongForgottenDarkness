@@ -33,14 +33,16 @@ Current Mod Versions
 - **Durability Show** v2.1.2 by Six-One-Three
 - **Fast Leave Decay** v1.1 by lumien
 - **Forge Mod Loader** v8.0.99.99 by cpw, LexManos, Player
+- **FTBLib** v2.0.2 by LatvianModder, Jared
+- **FTBUtilities** v2.0.2 by LatvianModder
 - **HelpFixer** v1.8.9-1.2.12 by matthewprenger
-- **Immersive Craft** v1.1.0 by McJty
+- **Immersive Craft** v1.1.2 by McJty
 - **In Case of Emergency** v1.1.5 by Ben "535" Blank
-- **Intangible** v0.0.19 by Emoniph
+- **Intangible** v0.0.25 by Emoniph
 - **Inventory Tweaks** v1.60-beta-30-48a432c
 - **Iron Chest** v6.0.123.769
 - **JourneyMap** v1.8.9-5.1.5 by techbrew, mysticdrew
-- **Just Enough Items** v2.28.6.173 by mezz
+- **Just Enough Items** v2.28.7.174 by mezz
 - **Mantle** v1.8.9-0.7.jenkins72
 - **MCMultiPart** v1.0.5
 - **Minecraft Coder Pack** v9.19
@@ -50,11 +52,11 @@ Current Mod Versions
 - **Not Enough Wands** v1.2.9 by romelo333, McJty
 - **OpenComputers** v1.5.22.6 by Florian 'Sangar' Nuecke, Johannes 'Lord Joda' Lohrer, Everyone who contributed to the mod on Github - thank you!
 - **OpenComputers (Core)** v1.5.22.6 by Sangar
-- **Psi** vbeta-19 by Vazkii
-- **Random Things** v3.6.4 by Lumien
+- **Psi** vbeta-23 by Vazkii
+- **Random Things** v3.6.5 by Lumien
 - **Simple Retrogen** v2.2.2+3
 - **Substratum** v1.1.0.1
-- **Thaumcraft** v5.2.1 by Azanor
+- **Thaumcraft** v5.2.2 by Azanor
 - **Tinkers' Construct** v1.8.9-2.0.2.jenkins61
 - **TIS-3D** v0.8.3.13 by Sangar
 - **|** v0.2.3 by asiekierka
