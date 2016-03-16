@@ -1,20 +1,20 @@
 {
-    "curseFiles": [
-        {
-            "fileID": 2275454,
-            "name": "better-title-screen",
-            "projectID": 224223
-        },
-        {
-            "fileID": 2285371,
-            "name": "journeymap-32274",
-            "projectID": 32274
-        },
-        {
-            "fileID": 2283426,
-            "name": "neat",
-            "projectID": 238372
-        }
-    ],
-    "thirdParty": []
+  "curseFiles": [
+    {
+      "fileID": 2275454,
+      "projectID": 224223,
+      "name": "better-title-screen"
+    },
+    {
+      "fileID": 2285371,
+      "projectID": 32274,
+      "name": "journeymap-32274"
+    },
+    {
+      "fileID": 2283426,
+      "projectID": 238372,
+      "name": "neat"
+    }
+  ],
+  "thirdParty": []
 }
