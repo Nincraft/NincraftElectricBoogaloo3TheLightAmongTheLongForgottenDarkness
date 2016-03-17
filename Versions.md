@@ -41,10 +41,10 @@ Current Mod Versions
 - **Not Enough Wands** v1.2.9 by romelo333, McJty
 - **OpenComputers** v1.5.22.6 by Florian 'Sangar' Nuecke, Johannes 'Lord Joda' Lohrer, Everyone who contributed to the mod on Github - thank you!
 - **Psi** vbeta-23 by Vazkii
-- **Random Things** v3.6.5 by Lumien
+- **Random Things** v3.6.6 by Lumien
 - **Simple Retrogen** v2.2.2+3
 - **Substratum** v1.1.0.1
-- **Thaumcraft** v5.2.2 by Azanor
+- **Thaumcraft** v5.2.3 by Azanor
 - **Tinkers' Construct** v1.8.9-2.0.2.jenkins61
 - **TIS-3D** v0.8.3.13 by Sangar
 - **|** v0.2.3 by asiekierka
