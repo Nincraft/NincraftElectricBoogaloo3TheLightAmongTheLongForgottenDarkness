@@ -30,11 +30,11 @@ Current Mod Versions
 - **Immersive Craft** v1.1.2 by McJty
 - **In Case of Emergency** v1.1.5 by Ben "535" Blank
 - **Intangible** v0.0.25 by Emoniph
-- **Inventory Tweaks** v1.60-beta-30-48a432c
+- **Inventory Tweaks** v1.60-40-e06e29a
 - **Iron Chest** v6.0.123.769
 - **JourneyMap** v1.8.9-5.1.5 by techbrew, mysticdrew
 - **Just Enough Items** v2.28.7.174 by mezz
-- **Mantle** v1.8.9-0.7.jenkins72
+- **Mantle** v1.8.9-0.9.1.jenkins99 by boni, progWML6, Alexbegt
 - **MCMultiPart** v1.0.5
 - **Neat** vGRADLE:VERSION-GRADLE:BUILD by Vazkii
 - **Nin's Mod Lister** v1.8.9-2.0.26 by Nincodedo
@@ -44,8 +44,8 @@ Current Mod Versions
 - **Random Things** v3.6.6 by Lumien
 - **Simple Retrogen** v2.2.2+3
 - **Substratum** v1.1.0.1
-- **Thaumcraft** v5.2.3 by Azanor
-- **Tinkers' Construct** v1.8.9-2.0.2.jenkins61
+- **Thaumcraft** v5.2.4 by Azanor
+- **Tinkers' Construct** v1.8.9-2.2.0.jenkins135 by boni
 - **TIS-3D** v0.8.3.13 by Sangar
 - **|** v0.2.3 by asiekierka
 - **â€½** v0.2.3 by asiekierka
