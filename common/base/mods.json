@@ -1,10 +1,16 @@
 {
-  "curseFiles": [
-    {
-      "fileID": 2277394,
-      "projectID": 224472,
-      "name": "applecore"
-    },
+  "minecraft": {
+    "version": "1.8.9",
+    "modLoaders": [
+      {
+        "id": "forge-11.15.1.1808",
+        "primary": true,
+        "folder": "common/base/loaders",
+        "downloadInstaller": true
+      }
+    ]
+  },
+  "files": [
     {
       "fileID": 2284760,
       "projectID": 223735,
@@ -26,7 +32,7 @@
       "name": "baubleshud"
     },
     {
-      "fileID": 2279388,
+      "fileID": 2293344,
       "projectID": 220318,
       "name": "biomes-o-plenty"
     },
@@ -41,7 +47,7 @@
       "name": "bloodmoon"
     },
     {
-      "fileID": 2282874,
+      "fileID": 2292770,
       "projectID": 231095,
       "name": "chisels-bits"
     },
@@ -97,27 +103,27 @@
       "name": "inventory-tweaks"
     },
     {
-      "fileID": 2278859,
+      "fileID": 2279897,
       "projectID": 228756,
       "name": "iron-chests"
     },
     {
-      "fileID": 2285357,
+      "fileID": 2293134,
       "projectID": 238222,
       "name": "just-enough-items-jei"
     },
     {
-      "fileID": 2287513,
+      "fileID": 2288937,
       "projectID": 74924,
       "name": "mantle"
     },
     {
-      "fileID": 2276306,
+      "fileID": 2290800,
       "projectID": 239431,
       "name": "mcmultipart"
     },
     {
-      "fileID": 2285846,
+      "fileID": 2288604,
       "projectID": 235595,
       "name": "not-enough-wands"
     },
@@ -153,12 +159,12 @@
       "name": "thaumcraft"
     },
     {
-      "fileID": 2287514,
+      "fileID": 2290938,
       "projectID": 74072,
       "name": "tinkers-construct"
     },
     {
-      "fileID": 2279788,
+      "fileID": 2291689,
       "projectID": 238603,
       "name": "tis-3d"
     }

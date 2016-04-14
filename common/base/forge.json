@@ -1,8 +1,0 @@
-{
-    "thirdParty": [
-        {
-            "name": "Forge",
-            "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1764/forge-1.8.9-11.15.1.1764-installer.jar"
-        }
-    ]
-}

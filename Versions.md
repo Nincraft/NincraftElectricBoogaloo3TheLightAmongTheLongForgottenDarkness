@@ -1,6 +1,6 @@
 Current Forge Version
 =
-- **Forge** v11.15.1.1764
+- **Forge** v11.15.1.1808
 
 Current Mod Versions
 =
@@ -9,7 +9,6 @@ Current Mod Versions
 - **&** v0.2.3 by asiekierka
 - ***** v0.2.3 by asiekierka
 - **+** v0.2.3 by asiekierka
-- **AppleCore** v1.3.0 by squeek
 - **Aroma1997Core** v${version} by Aroma1997, Schillaa
 - **AromaBackup** v0.0.1.1.b26
 - **Baubles** v1.1.3.0 by Azanor
@@ -20,7 +19,7 @@ Current Mod Versions
 - **Bloodmoon** v1.2 by lumien
 - **Botania** r1.8-249 by Vazkii
 - **BuildCraft** v7.2.0 by SpaceToad, BuildCraft Team
-- **Chisels & Bits** vmc1.8.9-v1.8.11 by AlgorithmX2
+- **Chisels & Bits** v8.8 by AlgorithmX2
 - **denseores** v1.0
 - **Durability Show** v2.1.2 by Six-One-Three
 - **Fast Leave Decay** v1.1 by lumien
@@ -31,22 +30,22 @@ Current Mod Versions
 - **In Case of Emergency** v1.1.5 by Ben "535" Blank
 - **Intangible** v0.0.25 by Emoniph
 - **Inventory Tweaks** v1.60-40-e06e29a
-- **Iron Chest** v6.0.123.769
+- **Iron Chest** v6.0.125.770
 - **JourneyMap** v1.8.9-5.1.5 by techbrew, mysticdrew
-- **Just Enough Items** v2.28.7.174 by mezz
-- **Mantle** v1.8.9-0.9.1.jenkins99 by boni, progWML6, Alexbegt
-- **MCMultiPart** v1.0.5
+- **Just Enough Items** v2.28.16.184 by mezz
+- **Mantle** v1.8.9-0.9.2.jenkins102 by boni, progWML6, Alexbegt
+- **MCMultiPart** v1.0.9
 - **Neat** vGRADLE:VERSION-GRADLE:BUILD by Vazkii
 - **Nin's Mod Lister** v1.8.9-2.0.26 by Nincodedo
-- **Not Enough Wands** v1.2.9 by romelo333, McJty
+- **Not Enough Wands** v1.3.0 by romelo333, McJty
 - **OpenComputers** v1.5.22.6 by Florian 'Sangar' Nuecke, Johannes 'Lord Joda' Lohrer, Everyone who contributed to the mod on Github - thank you!
 - **Psi** vbeta-23 by Vazkii
 - **Random Things** v3.6.6 by Lumien
 - **Simple Retrogen** v2.2.2+3
 - **Substratum** v1.1.0.1
 - **Thaumcraft** v5.2.4 by Azanor
-- **Tinkers' Construct** v1.8.9-2.2.0.jenkins135 by boni
-- **TIS-3D** v0.8.3.13 by Sangar
+- **Tinkers' Construct** v1.8.9-2.2.1.jenkins1005 by boni
+- **TIS-3D** v0.8.4.15 by Sangar
 - **|** v0.2.3 by asiekierka
 - **â€½** v0.2.3 by asiekierka
 - **â™«** v0.2.3 by asiekierka

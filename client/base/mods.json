@@ -1,5 +1,8 @@
 {
-  "curseFiles": [
+  "minecraft": {
+    "version": "1.8.9"
+  },
+  "files": [
     {
       "fileID": 2275454,
       "projectID": 224223,
@@ -15,6 +18,5 @@
       "projectID": 238372,
       "name": "neat"
     }
-  ],
-  "thirdParty": []
+  ]
 }
