@@ -1,0 +1,42 @@
+node {
+   // Mark the code checkout 'stage'....
+   stage 'Checkout'
+
+   // Get some code from a GitHub repository
+   git branch: 'develop', url: 'https://github.com/Nincraft/NincraftElectricBoogaloo3TheLightAmongTheLongForgottenDarkness.git'
+
+   stage 'Copy artifacts'
+   bat "del /s /q \"*.jar\""
+   step([$class: 'CopyArtifact',
+        filter: 'target/*.jar',
+        fingerprintArtifacts: true,
+        flatten: true,
+        projectName: 'Mod Pack Downloader',
+        selector: [$class: 'StatusBuildSelector',
+        stable: false]])
+
+   bat '''del /s /q "common\\base\\loaders\\*.jar"
+          del /s /q "common\\base\\mods\\*.jar"
+          del /s /q "client\\base\\mods\\*.jar"
+          del /s /q "server\\base\\mods\\*.jar"'''
+   stage 'Download Common mods'
+   bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
+          java -jar "%modpackdownloader%" common/base/mods.json common/base/mods'''
+   stage 'Download Client mods'
+   bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
+          java -jar "%modpackdownloader%" client/base/mods.json client/base/mods'''
+   stage 'Download Server mods'
+   bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
+          java -jar "%modpackdownloader%" server/base/mods.json server/base/mods'''
+   // Mark the code build 'stage'....
+   stage 'Build'
+   // Get the maven tool.
+   def mvnHome = tool 'maven'
+
+   
+   // Run the maven build
+   bat "\"${mvnHome}\\bin\\mvn\" clean package -D profile.develop -Dbuild.number=${env.BUILD_NUMBER}"
+   
+   stage 'Archive'
+   archive 'target/*.zip,launcher/**/modpack.json,launcher/**/src/mods/*.json'
+}
