@@ -3,9 +3,9 @@ node {
    stage 'Checkout'
 
    // Get some code from a GitHub repository
-   git branch: 'develop', url: 'https://github.com/Nincraft/NincraftElectricBoogaloo3TheLightAmongTheLongForgottenDarkness.git'
+   git '...'
 
-   stage 'Copy artifacts'
+   stage 'Copy Mod Pack Downloader'
    bat "del /s /q \"*.jar\""
    step([$class: 'CopyArtifact',
         filter: 'target/*.jar',
@@ -30,7 +30,7 @@ node {
    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
           java -jar "%modpackdownloader%" server/base/mods.json server/base/mods'''
    // Mark the code build 'stage'....
-   stage 'Build'
+   stage 'Build Pack'
    // Get the maven tool.
    def mvnHome = tool 'maven'
 
