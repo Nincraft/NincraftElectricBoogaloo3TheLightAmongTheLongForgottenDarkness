@@ -3,7 +3,7 @@ node {
    stage 'Checkout'
 
    // Get some code from a GitHub repository
-   git url: 'https://github.com/Nincraft/NincraftElectricBoogaloo3TheLightAmongTheLongForgottenDarkness.git'
+   git branch: ${env.BRANCH_NAME}, url: 'https://github.com/Nincraft/NincraftElectricBoogaloo3TheLightAmongTheLongForgottenDarkness.git'
 
    stage 'Copy Mod Pack Downloader'
    bat "del /s /q \"*.jar\""
