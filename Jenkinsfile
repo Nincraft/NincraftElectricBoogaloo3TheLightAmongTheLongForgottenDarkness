@@ -34,9 +34,15 @@ node {
    // Get the maven tool.
    def mvnHome = tool 'maven'
 
+   if(env.BRANCH_NAME.contains("release") || env.BRANCH_NAME.contains("master")){
+      profileName = "master"
+   }
+   else{
+      profileName = "develop"
+   }
    
    // Run the maven build
-   bat "\"${mvnHome}\\bin\\mvn\" clean package -D profile.develop -Dbuild.number=${env.BUILD_NUMBER}"
+   bat "\"${mvnHome}\\bin\\mvn\" clean package -D profile.${profileName} -Dbuild.number=${env.BUILD_NUMBER}"
    
    stage 'Archive'
    archive 'target/*.zip,launcher/**/modpack.json,launcher/**/src/mods/*.json'
