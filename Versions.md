@@ -1,51 +1,26 @@
 Current Forge Version
 =
-- **Forge** v11.15.1.1808
+- **Forge** v12.16.1.1906
 
 Current Mod Versions
 =
-- **!** v0.2.3 by asiekierka
-- **#** v0.2.3 by asiekierka
-- **&** v0.2.3 by asiekierka
-- ***** v0.2.3 by asiekierka
-- **+** v0.2.3 by asiekierka
-- **Aroma1997Core** v${version} by Aroma1997, Schillaa
-- **AromaBackup** v0.0.1.1.b26
-- **Baubles** v1.1.3.0 by Azanor
-- **Baubles-Hud** v2.2.1 by Gigabit101
-- **Better Title Screen** v1.2 by Girafi, Amadornes
-- **Biomes O' Plenty** v3.0.0 by Adubbz, Amnet, Cheeserolls, Forstride, ted80
-- **Blood Magic: Alchemical Wizardry** v1.8.9-2.0.0-14 by WayofTime
+- **Baubles** v1.2.0.2 by Azanor
+- **Baubles-Hud** v2.3.0 by Gigabit101
+- **Better Title Screen** v1.2b by Girafi, Amadornes
+- **Biomes O' Plenty** v4.0.1.2006 by Adubbz, Amnet, Cheeserolls, Forstride, ted80
+- **Blood Magic: Alchemical Wizardry** v1.9-2.0.0-38 by WayofTime
 - **Bloodmoon** v1.2 by lumien
-- **Botania** r1.8-249 by Vazkii
-- **BuildCraft** v7.2.0 by SpaceToad, BuildCraft Team
-- **Chisels & Bits** v8.8 by AlgorithmX2
-- **denseores** v1.0
-- **Durability Show** v2.1.2 by Six-One-Three
+- **Botania** r1.8-304 by Vazkii
+- **Chisels & Bits** v9.18 by AlgorithmX2
+- **Durability Show** v3.0.2 by Six-One-Three
 - **Fast Leave Decay** v1.1 by lumien
-- **FTBLib** v2.0.2 by LatvianModder, Jared
-- **FTBUtilities** v2.0.2 by LatvianModder
-- **HelpFixer** v1.8.9-1.2.12 by matthewprenger
-- **Immersive Craft** v1.1.2 by McJty
-- **In Case of Emergency** v1.1.5 by Ben "535" Blank
-- **Intangible** v0.0.25 by Emoniph
-- **Inventory Tweaks** v1.60-40-e06e29a
-- **Iron Chest** v6.0.125.770
-- **JourneyMap** v1.8.9-5.1.5 by techbrew, mysticdrew
-- **Just Enough Items** v2.28.16.184 by mezz
-- **Mantle** v1.8.9-0.9.2.jenkins102 by boni, progWML6, Alexbegt
-- **MCMultiPart** v1.0.9
+- **HelpFixer** v1.3.13 by matthewprenger
+- **Just Enough Items** v3.3.3.197 by mezz
+- **Mantle** v1.9-0.9.4.jenkins114 by boni, progWML6, Alexbegt
 - **Neat** vGRADLE:VERSION-GRADLE:BUILD by Vazkii
-- **Nin's Mod Lister** v1.8.9-2.0.26 by Nincodedo
-- **Not Enough Wands** v1.3.0 by romelo333, McJty
-- **OpenComputers** v1.5.22.6 by Florian 'Sangar' Nuecke, Johannes 'Lord Joda' Lohrer, Everyone who contributed to the mod on Github - thank you!
-- **Psi** vbeta-23 by Vazkii
-- **Random Things** v3.6.6 by Lumien
-- **Simple Retrogen** v2.2.2+3
-- **Substratum** v1.1.0.1
-- **Thaumcraft** v5.2.4 by Azanor
-- **Tinkers' Construct** v1.8.9-2.2.1.jenkins1005 by boni
-- **TIS-3D** v0.8.4.15 by Sangar
-- **|** v0.2.3 by asiekierka
-- **â€½** v0.2.3 by asiekierka
-- **â™«** v0.2.3 by asiekierka
+- **Nin's Mod Lister** v1.9-3.0+2 by Nincodedo
+- **Not Enough Wands** v1.3.3 by romelo333, McJty
+- **Psi** vbeta-31 by Vazkii
+- **Random Things** v3.7 by Lumien
+- **Simple Retrogen** v2.2.3+4
+- **Substratum** v1.3.0.0

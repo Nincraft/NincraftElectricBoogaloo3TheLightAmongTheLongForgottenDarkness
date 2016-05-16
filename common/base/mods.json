@@ -1,9 +1,9 @@
 {
   "minecraft": {
-    "version": "1.8.9",
+    "version": "1.9",
     "modLoaders": [
       {
-        "id": "forge-11.15.1.1808",
+        "id": "forge-12.16.1.1906",
         "primary": true,
         "folder": "common/base/loaders",
         "downloadInstaller": true
@@ -14,173 +14,181 @@
     {
       "fileID": 2284760,
       "projectID": 223735,
-      "name": "aroma1997core"
+      "name": "aroma1997core",
+      "skipDownload": true
     },
     {
       "fileID": 2277001,
       "projectID": 225658,
-      "name": "aromabackup"
+      "name": "aromabackup",
+      "skipDownload": true
     },
     {
-      "fileID": 2273274,
+      "fileID": 2295239,
       "projectID": 227083,
       "name": "baubles"
     },
     {
-      "fileID": 2274840,
+      "fileID": 2290688,
       "projectID": 230751,
       "name": "baubleshud"
     },
     {
-      "fileID": 2293344,
+      "fileID": 2293347,
       "projectID": 220318,
       "name": "biomes-o-plenty"
     },
     {
-      "fileID": 2279356,
+      "fileID": 2300055,
       "projectID": 224791,
+      "release": "beta",
       "name": "blood-magic"
     },
     {
-      "fileID": 2269766,
+      "fileID": 2290232,
       "projectID": 226321,
       "name": "bloodmoon"
     },
     {
-      "fileID": 2292770,
+      "fileID": 2299308,
+      "projectID": 241973,
+      "release": "beta",
+      "name": "botania-unofficial"
+    },
+    {
+      "fileID": 2299682,
       "projectID": 231095,
       "name": "chisels-bits"
     },
     {
       "fileID": 2285948,
       "projectID": 224942,
-      "name": "dense-ores"
+      "name": "dense-ores",
+      "skipDownload": true
     },
     {
-      "fileID": 2273148,
+      "fileID": 2289550,
       "projectID": 226099,
       "name": "durability-show"
     },
     {
-      "fileID": 2269767,
+      "fileID": 2288116,
       "projectID": 225839,
       "name": "fast-leaf-decay"
     },
     {
       "fileID": 2276325,
       "projectID": 237102,
-      "name": "ftb-utilities"
+      "name": "ftb-utilities",
+      "skipDownload": true
     },
     {
       "fileID": 2276324,
       "projectID": 237167,
-      "name": "ftblib"
+      "name": "ftblib",
+      "skipDownload": true
     },
     {
-      "fileID": 2272962,
+      "fileID": 2287784,
       "projectID": 223797,
       "name": "helpfixer"
     },
     {
       "fileID": 2286514,
       "projectID": 241268,
-      "name": "immersive-craft"
+      "name": "immersive-craft",
+      "skipDownload": true
     },
     {
       "fileID": 2285583,
       "projectID": 241925,
-      "name": "in-case-of-emergency"
+      "name": "in-case-of-emergency",
+      "skipDownload": true
     },
     {
       "fileID": 2284654,
       "projectID": 241350,
       "release": "beta",
-      "name": "intangible"
+      "name": "intangible",
+      "skipDownload": true
     },
     {
       "fileID": 2287489,
       "projectID": 223094,
-      "name": "inventory-tweaks"
+      "name": "inventory-tweaks",
+      "skipDownload": true
     },
     {
       "fileID": 2279897,
       "projectID": 228756,
-      "name": "iron-chests"
+      "name": "iron-chests",
+      "skipDownload": true
     },
     {
-      "fileID": 2293134,
+      "fileID": 2297416,
       "projectID": 238222,
       "name": "just-enough-items-jei"
     },
     {
-      "fileID": 2288937,
+      "fileID": 2293459,
       "projectID": 74924,
       "name": "mantle"
     },
     {
       "fileID": 2290800,
       "projectID": 239431,
-      "name": "mcmultipart"
+      "name": "mcmultipart",
+      "skipDownload": true
     },
     {
-      "fileID": 2288604,
+      "fileID": 2299155,
       "projectID": 235595,
       "name": "not-enough-wands"
     },
     {
       "fileID": 2280569,
       "projectID": 223008,
-      "name": "opencomputers"
+      "name": "opencomputers",
+      "skipDownload": true
     },
     {
-      "fileID": 2286979,
+      "fileID": 2291717,
       "projectID": 241665,
       "release": "beta",
       "name": "psi"
     },
     {
-      "fileID": 2287348,
+      "fileID": 2295909,
       "projectID": 59816,
       "name": "random-things"
     },
     {
-      "fileID": 2275910,
+      "fileID": 2295224,
       "projectID": 240566,
       "name": "simpleretrogen"
     },
     {
-      "fileID": 2279246,
+      "fileID": 2291285,
       "projectID": 241113,
       "name": "substratum"
     },
     {
       "fileID": 2287496,
       "projectID": 223628,
-      "name": "thaumcraft"
+      "name": "thaumcraft",
+      "skipDownload": true
     },
     {
       "fileID": 2290938,
       "projectID": 74072,
-      "name": "tinkers-construct"
+      "name": "tinkers-construct",
+      "skipDownload": true
     },
     {
       "fileID": 2291689,
       "projectID": 238603,
-      "name": "tis-3d"
-    }
-  ],
-  "thirdParty": [
-    {
-      "url": "https://github.com/williewillus/Botania/releases/download/v0.6.2-beta/Botania.r1.8-248-unofficial-0.6.2.jar",
-      "name": "Botania"
-    },
-    {
-      "url": "http://www.mod-buildcraft.com/releases/BuildCraft/7.2.0/buildcraft-7.2.0.jar",
-      "name": "Buildcraft"
-    },
-    {
-      "url": "http://charset.asie.pl/files/Charset-0.2.3-55a8a6f20188d07d8fb9c2a9.jar",
-      "name": "Charset"
+      "name": "tis-3d",
+      "skipDownload": true
     }
   ]
 }

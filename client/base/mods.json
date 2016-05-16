@@ -1,20 +1,21 @@
 {
   "minecraft": {
-    "version": "1.8.9"
+    "version": "1.9"
   },
   "files": [
     {
-      "fileID": 2275454,
+      "fileID": 2289389,
       "projectID": 224223,
       "name": "better-title-screen"
     },
     {
       "fileID": 2285371,
       "projectID": 32274,
-      "name": "journeymap-32274"
+      "name": "journeymap-32274",
+      "skipDownload": true
     },
     {
-      "fileID": 2283426,
+      "fileID": 2289629,
       "projectID": 238372,
       "name": "neat"
     }
