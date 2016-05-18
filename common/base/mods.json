@@ -82,6 +82,11 @@
       "name": "fast-leaf-decay"
     },
     {
+      "fileID": 2289394,
+      "projectID": 238590,
+      "name": "flat-colored-blocks"
+    },
+    {
       "fileID": 2276325,
       "projectID": 237102,
       "name": "ftb-utilities",
@@ -92,6 +97,11 @@
       "projectID": 237167,
       "name": "ftblib",
       "skipDownload": true
+    },
+    {
+      "fileID": 2298721,
+      "projectID": 243577,
+      "name": "grapple-hooks"
     },
     {
       "fileID": 2287784,
@@ -163,6 +173,12 @@
       "name": "psi"
     },
     {
+      "fileID": 2294963,
+      "projectID": 243121,
+      "release": "beta",
+      "name": "quark"
+    },
+    {
       "fileID": 2295909,
       "projectID": 59816,
       "name": "random-things"
@@ -176,6 +192,11 @@
       "fileID": 2291285,
       "projectID": 241113,
       "name": "substratum"
+    },
+    {
+      "fileID": 2298779,
+      "projectID": 244862,
+      "name": "tehnuts-torcherino"
     },
     {
       "fileID": 2287496,
