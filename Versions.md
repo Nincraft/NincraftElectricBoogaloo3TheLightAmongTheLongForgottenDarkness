@@ -12,7 +12,9 @@ Current Mod Versions
 - **Bloodmoon** v1.2 by lumien
 - **Botania** r1.8-304 by Vazkii
 - **Chisels & Bits** v9.18 by AlgorithmX2
+- **CodeChicken Core** v2.0.1.59 by ChickenBones
 - **Durability Show** v3.0.2 by Six-One-Three
+- **EnderStorage** v2.0.1.42 by ChickenBones, covers1624
 - **Fast Leave Decay** v1.1 by lumien
 - **HelpFixer** v1.3.13 by matthewprenger
 - **Just Enough Items** v3.3.3.197 by mezz

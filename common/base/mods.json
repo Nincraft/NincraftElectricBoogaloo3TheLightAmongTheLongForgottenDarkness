@@ -72,6 +72,11 @@
       "name": "durability-show"
     },
     {
+      "fileID": 2300623,
+      "projectID": 245174,
+      "name": "ender-storage-1-8-9"
+    },
+    {
       "fileID": 2288116,
       "projectID": 225839,
       "name": "fast-leaf-decay"
@@ -189,6 +194,12 @@
       "projectID": 238603,
       "name": "tis-3d",
       "skipDownload": true
+    }
+  ],
+  "thirdParty": [
+    {
+      "url": "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.9-2.0.1.59/CodeChickenCore-1.9-2.0.1.59-universal.jar",
+      "name": "CodeChickenCore"
     }
   ]
 }
