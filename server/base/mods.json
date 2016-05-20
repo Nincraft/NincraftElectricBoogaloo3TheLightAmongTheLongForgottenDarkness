@@ -1,11 +1,11 @@
 {
     "minecraft": {
-        "version": "1.9"
+        "version": "1.9.4"
     },
     "thirdParty": [
         {
             "name": "ForgeAutoShutdown",
-            "url": "https://github.com/Nincraft/ForgeAutoShutdown/releases/download/1.0.9/ForgeAutoShutdown-1.0.9.jar"
+            "url": "https://github.com/Nincraft/ForgeAutoShutdown/releases/download/1.0.10/ForgeAutoShutdown-1.0.10.jar"
         }
     ]
 }

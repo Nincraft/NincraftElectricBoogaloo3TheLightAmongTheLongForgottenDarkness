@@ -1,10 +1,10 @@
 {
   "minecraft": {
-    "version": "1.9"
+    "version": "1.9.4"
   },
   "files": [
     {
-      "fileID": 2289389,
+      "fileID": 2300899,
       "projectID": 224223,
       "name": "better-title-screen"
     },
@@ -15,7 +15,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2289629,
+      "fileID": 2301346,
       "projectID": 238372,
       "name": "neat"
     }
