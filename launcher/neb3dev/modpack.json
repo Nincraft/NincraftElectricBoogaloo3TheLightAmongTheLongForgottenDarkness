@@ -1,7 +1,7 @@
 {
   "name": "neb3-dev",
   "title": "Nincraft Electric Boogaloo 3 Dev",
-  "gameVersion": "1.9",
+  "gameVersion": "1.9.4",
   "launch": {
     "flags": [
       "-Dfml.ignoreInvalidMinecraftCertificates=true"
