@@ -48,10 +48,9 @@
       "skipDownload": true
     },
     {
-      "fileID": 2290232,
+      "fileID": 2301408,
       "projectID": 226321,
-      "name": "bloodmoon",
-      "skipDownload": true
+      "name": "bloodmoon"
     },
     {
       "fileID": 2301155,
@@ -75,12 +74,6 @@
       "fileID": 2301124,
       "projectID": 226099,
       "name": "durability-show"
-    },
-    {
-      "fileID": 2300623,
-      "projectID": 245174,
-      "name": "ender-storage-1-8-9",
-      "skipDownload": true
     },
     {
       "fileID": 2301239,
@@ -165,6 +158,11 @@
       "skipDownload": true
     },
     {
+      "fileID": 2301616,
+      "projectID": 245287,
+      "name": "morph-o-tool"
+    },
+    {
       "fileID": 2301140,
       "projectID": 235595,
       "name": "not-enough-wands"
@@ -176,14 +174,13 @@
       "skipDownload": true
     },
     {
-      "fileID": 2291717,
+      "fileID": 2301504,
       "projectID": 241665,
       "release": "beta",
-      "name": "psi",
-      "skipDownload": true
+      "name": "psi"
     },
     {
-      "fileID": 2301357,
+      "fileID": 2301503,
       "projectID": 243121,
       "release": "beta",
       "name": "quark"
