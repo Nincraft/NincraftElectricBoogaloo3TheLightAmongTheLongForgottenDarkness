@@ -7,9 +7,10 @@ Current Mod Versions
 - **Baubles** v1.2.1.0 by Azanor
 - **Baubles-Hud** v3.0.0 by Gigabit101
 - **Better Title Screen** v1.2c by Girafi, Amadornes
+- **Blood Magic: Alchemical Wizardry** v1.9.4-2.0.0-39 by WayofTime
 - **Bloodmoon** v1.2 by lumien
 - **Botania** r1.8-306 by Vazkii
-- **Durability Show** v3.1.0 by Six-One-Three
+- **Durability Show** v3.1.1 by Six-One-Three
 - **Fast Leave Decay** v1.1 by lumien
 - **HelpFixer** v1.3.14 by matthewprenger
 - **Just Enough Items** v3.4.0.204 by mezz
@@ -17,7 +18,9 @@ Current Mod Versions
 - **Neat** vGRADLE:VERSION-GRADLE:BUILD by Vazkii
 - **Nin's Mod Lister** v1.9.4-4.0+28 by Nincodedo
 - **Not Enough Wands** v1.3.3 by romelo333, McJty
-- **Psi** vbeta-32 by Vazkii
+- **Psi** vbeta-33 by Vazkii
 - **Quark** vbeta-21 by Vazkii, wiiv
 - **Random Things** v3.7.1 by Lumien
 - **Substratum** v1.3.1.0
+- **TIS-3D** v0.9.0.5 by Sangar
+- **Torcherino** v1.9.4-2.4.0 by TehNut

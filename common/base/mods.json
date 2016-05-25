@@ -41,11 +41,10 @@
       "skipDownload": true
     },
     {
-      "fileID": 2300055,
+      "fileID": 2302116,
       "projectID": 224791,
       "release": "beta",
-      "name": "blood-magic",
-      "skipDownload": true
+      "name": "blood-magic"
     },
     {
       "fileID": 2301408,
@@ -71,7 +70,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2301124,
+      "fileID": 2302468,
       "projectID": 226099,
       "name": "durability-show"
     },
@@ -158,7 +157,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2301616,
+      "fileID": 2301784,
       "projectID": 245287,
       "name": "morph-o-tool"
     },
@@ -174,7 +173,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2301504,
+      "fileID": 2301774,
       "projectID": 241665,
       "release": "beta",
       "name": "psi"
@@ -202,10 +201,9 @@
       "name": "substratum"
     },
     {
-      "fileID": 2298779,
+      "fileID": 2302183,
       "projectID": 244862,
-      "name": "tehnuts-torcherino",
-      "skipDownload": true
+      "name": "tehnuts-torcherino"
     },
     {
       "fileID": 2287496,
@@ -220,10 +218,9 @@
       "skipDownload": true
     },
     {
-      "fileID": 2291689,
+      "fileID": 2302430,
       "projectID": 238603,
-      "name": "tis-3d",
-      "skipDownload": true
+      "name": "tis-3d"
     }
   ]
 }
