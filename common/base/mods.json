@@ -3,7 +3,7 @@
     "version": "1.9.4",
     "modLoaders": [
       {
-        "id": "forge-12.17.0.1909",
+        "id": "forge-12.17.0.1920",
         "primary": true,
         "folder": "common/base/loaders",
         "downloadInstaller": true,
