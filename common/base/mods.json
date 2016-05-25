@@ -64,6 +64,12 @@
       "skipDownload": true
     },
     {
+      "fileID": 2301968,
+      "projectID": 233398,
+      "release": "beta",
+      "name": "deep-resonance"
+    },
+    {
       "fileID": 2285948,
       "projectID": 224942,
       "name": "dense-ores",
@@ -73,6 +79,12 @@
       "fileID": 2302468,
       "projectID": 226099,
       "name": "durability-show"
+    },
+    {
+      "fileID": 2301390,
+      "projectID": 227391,
+      "release": "beta",
+      "name": "eleccore-rendering-library"
     },
     {
       "fileID": 2301239,
@@ -149,6 +161,11 @@
       "projectID": 74924,
       "name": "mantle",
       "skipDownload": true
+    },
+    {
+      "fileID": 2302288,
+      "projectID": 233105,
+      "name": "mcjtylib"
     },
     {
       "fileID": 2290800,

@@ -1,6 +1,6 @@
 Current Forge Version
 =
-- **Forge** v12.17.0.1909
+- **Forge** v12.17.0.1920
 
 Current Mod Versions
 =
@@ -10,7 +10,9 @@ Current Mod Versions
 - **Blood Magic: Alchemical Wizardry** v1.9.4-2.0.0-39 by WayofTime
 - **Bloodmoon** v1.2 by lumien
 - **Botania** r1.8-306 by Vazkii
+- **DeepResonance** v1.1.4beta32 by McJty, Elec332
 - **Durability Show** v3.1.1 by Six-One-Three
+- **ElecCore** v1.5.285 by Elec332
 - **Fast Leave Decay** v1.1 by lumien
 - **HelpFixer** v1.3.14 by matthewprenger
 - **Just Enough Items** v3.4.0.204 by mezz
