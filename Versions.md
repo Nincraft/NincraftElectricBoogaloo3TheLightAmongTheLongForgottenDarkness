@@ -10,6 +10,7 @@ Current Mod Versions
 - **Blood Magic: Alchemical Wizardry** v1.9.4-2.0.0-39 by WayofTime
 - **Bloodmoon** v1.2 by lumien
 - **Botania** r1.8-306 by Vazkii
+- **Combat Help** v1.0.0 by McJty
 - **DeepResonance** v1.1.4beta32 by McJty, Elec332
 - **Durability Show** v3.1.1 by Six-One-Three
 - **ElecCore** v1.5.285 by Elec332
@@ -23,6 +24,9 @@ Current Mod Versions
 - **Psi** vbeta-33 by Vazkii
 - **Quark** vbeta-21 by Vazkii, wiiv
 - **Random Things** v3.7.1 by Lumien
+- **RFTools** v4.49 by McJty
+- **RFTools Dimensions** v4.23beta40 by McJty
 - **Substratum** v1.3.1.0
+- **The One Probe** v1.0.1 by McJty
 - **TIS-3D** v0.9.0.5 by Sangar
 - **Torcherino** v1.9.4-2.4.0 by TehNut

@@ -64,6 +64,11 @@
       "skipDownload": true
     },
     {
+      "fileID": 2301245,
+      "projectID": 244975,
+      "name": "combathelp"
+    },
+    {
       "fileID": 2301968,
       "projectID": 233398,
       "release": "beta",
@@ -207,6 +212,17 @@
       "name": "random-things"
     },
     {
+      "fileID": 2302290,
+      "projectID": 224641,
+      "name": "rftools"
+    },
+    {
+      "fileID": 2301152,
+      "projectID": 240950,
+      "release": "beta",
+      "name": "rftools-dimensions"
+    },
+    {
       "fileID": 2295224,
       "projectID": 240566,
       "name": "simpleretrogen",
@@ -227,6 +243,11 @@
       "projectID": 223628,
       "name": "thaumcraft",
       "skipDownload": true
+    },
+    {
+      "fileID": 2302532,
+      "projectID": 245211,
+      "name": "the-one-probe"
     },
     {
       "fileID": 2290938,
