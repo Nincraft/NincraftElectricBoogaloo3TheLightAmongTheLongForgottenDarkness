@@ -3,11 +3,12 @@
     "version": "1.9.4",
     "modLoaders": [
       {
-        "id": "forge-12.17.0.1920",
+        "id": "forge-12.17.0.1951",
         "primary": true,
-        "folder": "common/base/loaders",
         "downloadInstaller": true,
-        "release": "latest"
+        "release": "latest",
+        "name": "forge",
+        "folder": "common/base/loaders"
       }
     ]
   },
@@ -35,13 +36,13 @@
       "name": "baubleshud"
     },
     {
-      "fileID": 2293347,
+      "fileID": 2305111,
       "projectID": 220318,
-      "name": "biomes-o-plenty",
-      "skipDownload": true
+      "release": "beta",
+      "name": "biomes-o-plenty"
     },
     {
-      "fileID": 2302116,
+      "fileID": 2304763,
       "projectID": 224791,
       "release": "beta",
       "name": "blood-magic"
@@ -52,7 +53,7 @@
       "name": "bloodmoon"
     },
     {
-      "fileID": 2301155,
+      "fileID": 2303461,
       "projectID": 241973,
       "release": "beta",
       "name": "botania-unofficial"
@@ -115,10 +116,9 @@
       "skipDownload": true
     },
     {
-      "fileID": 2298721,
+      "fileID": 2305137,
       "projectID": 243577,
-      "name": "grapple-hooks",
-      "skipDownload": true
+      "name": "grapple-hooks"
     },
     {
       "fileID": 2301058,
@@ -126,10 +126,9 @@
       "name": "helpfixer"
     },
     {
-      "fileID": 2286514,
+      "fileID": 2303137,
       "projectID": 241268,
-      "name": "immersive-craft",
-      "skipDownload": true
+      "name": "immersive-craft"
     },
     {
       "fileID": 2285583,
@@ -157,7 +156,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2301322,
+      "fileID": 2304545,
       "projectID": 238222,
       "name": "just-enough-items-jei"
     },
@@ -184,7 +183,7 @@
       "name": "morph-o-tool"
     },
     {
-      "fileID": 2301140,
+      "fileID": 2303315,
       "projectID": 235595,
       "name": "not-enough-wands"
     },
@@ -207,29 +206,28 @@
       "name": "quark"
     },
     {
-      "fileID": 2301141,
+      "fileID": 2304052,
       "projectID": 59816,
       "name": "random-things"
     },
     {
-      "fileID": 2302290,
+      "fileID": 2304615,
       "projectID": 224641,
       "name": "rftools"
     },
     {
-      "fileID": 2301152,
+      "fileID": 2305229,
       "projectID": 240950,
       "release": "beta",
       "name": "rftools-dimensions"
     },
     {
-      "fileID": 2295224,
+      "fileID": 2304449,
       "projectID": 240566,
-      "name": "simpleretrogen",
-      "skipDownload": true
+      "name": "simpleretrogen"
     },
     {
-      "fileID": 2301263,
+      "fileID": 2304776,
       "projectID": 241113,
       "name": "substratum"
     },
@@ -245,7 +243,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2302532,
+      "fileID": 2305212,
       "projectID": 245211,
       "name": "the-one-probe"
     },
