@@ -36,3 +36,4 @@ Current Mod Versions
 - **The One Probe** v1.0.5 by McJty
 - **TIS-3D** v0.9.0.5 by Sangar
 - **Torcherino** v1.9.4-2.4.0 by TehNut
+- **Zoology** v1.0
