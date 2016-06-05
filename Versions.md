@@ -1,6 +1,6 @@
 Current Forge Version
 =
-- **Forge** v12.17.0.1951
+- **Forge** v12.17.0.1954
 
 Current Mod Versions
 =
@@ -15,10 +15,11 @@ Current Mod Versions
 - **DeepResonance** v1.1.4beta32 by McJty, Elec332
 - **Durability Show** v3.1.1 by Six-One-Three
 - **ElecCore** v1.5.285 by Elec332
+- **ExtraUtils2** v1.0
 - **Fast Leave Decay** v1.1 by lumien
 - **Grapple Hooks** v1.0.8
 - **HelpFixer** v1.3.14 by matthewprenger
-- **Immersive Craft** v1.1.5 by McJty
+- **Immersive Craft** v1.1.6 by McJty
 - **JourneyMap** v1.9.4-5.2.0 by techbrew, mysticdrew
 - **Just Enough Items** v3.4.3.207 by mezz
 - **Morph-o-Tool** vGRADLE:VERSION-GRADLE:BUILD by Vazkii

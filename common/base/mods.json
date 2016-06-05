@@ -3,7 +3,7 @@
     "version": "1.9.4",
     "modLoaders": [
       {
-        "id": "forge-12.17.0.1951",
+        "id": "forge-12.17.0.1954",
         "primary": true,
         "downloadInstaller": true,
         "release": "latest",
@@ -93,6 +93,12 @@
       "name": "eleccore-rendering-library"
     },
     {
+      "fileID": 2304443,
+      "projectID": 225561,
+      "release": "alpha",
+      "name": "extra-utilities"
+    },
+    {
       "fileID": 2301239,
       "projectID": 225839,
       "name": "fast-leaf-decay"
@@ -126,7 +132,7 @@
       "name": "helpfixer"
     },
     {
-      "fileID": 2303137,
+      "fileID": 2305361,
       "projectID": 241268,
       "name": "immersive-craft"
     },
