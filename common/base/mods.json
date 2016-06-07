@@ -14,6 +14,11 @@
   },
   "files": [
     {
+      "fileID": 2305596,
+      "projectID": 224472,
+      "name": "applecore"
+    },
+    {
       "fileID": 2284760,
       "projectID": 223735,
       "name": "aroma1997core",
@@ -87,7 +92,7 @@
       "name": "durability-show"
     },
     {
-      "fileID": 2301390,
+      "fileID": 2305520,
       "projectID": 227391,
       "release": "beta",
       "name": "eleccore-rendering-library"
@@ -206,7 +211,7 @@
       "name": "psi"
     },
     {
-      "fileID": 2301503,
+      "fileID": 2305799,
       "projectID": 243121,
       "release": "beta",
       "name": "quark"
@@ -233,7 +238,7 @@
       "name": "simpleretrogen"
     },
     {
-      "fileID": 2304776,
+      "fileID": 2305702,
       "projectID": 241113,
       "name": "substratum"
     },

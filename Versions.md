@@ -4,6 +4,7 @@ Current Forge Version
 
 Current Mod Versions
 =
+- **AppleCore** v1.3.2 by squeek
 - **Baubles** v1.2.1.0 by Azanor
 - **Baubles-Hud** v3.0.0 by Gigabit101
 - **Better Title Screen** v1.2c by Girafi, Amadornes
@@ -14,7 +15,7 @@ Current Mod Versions
 - **Combat Help** v1.0.0 by McJty
 - **DeepResonance** v1.1.4beta32 by McJty, Elec332
 - **Durability Show** v3.1.1 by Six-One-Three
-- **ElecCore** v1.5.285 by Elec332
+- **ElecCore** v1.5.292 by Elec332
 - **ExtraUtils2** v1.0
 - **Fast Leave Decay** v1.1 by lumien
 - **Grapple Hooks** v1.0.8
@@ -27,12 +28,12 @@ Current Mod Versions
 - **Nin's Mod Lister** v1.9.4-4.0+28 by Nincodedo
 - **Not Enough Wands** v1.3.4 by romelo333, McJty
 - **Psi** vbeta-33 by Vazkii
-- **Quark** vbeta-21 by Vazkii, wiiv
+- **Quark** vbeta-22 by Vazkii, wiiv
 - **Random Things** v3.7.3 by Lumien
 - **RFTools** v4.51 by McJty
 - **RFTools Dimensions** v4.23beta41 by McJty
 - **Simple Retrogen** v3.0.1+6
-- **Substratum** v1.3.2.0
+- **Substratum** v1.4.0.1
 - **The One Probe** v1.0.5 by McJty
 - **TIS-3D** v0.9.0.5 by Sangar
 - **Torcherino** v1.9.4-2.4.0 by TehNut
