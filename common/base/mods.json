@@ -3,7 +3,7 @@
     "version": "1.9.4",
     "modLoaders": [
       {
-        "id": "forge-12.17.0.1954",
+        "id": "forge-12.17.0.1960",
         "primary": true,
         "downloadInstaller": true,
         "release": "latest",
@@ -14,21 +14,19 @@
   },
   "files": [
     {
-      "fileID": 2305596,
+      "fileID": 2306737,
       "projectID": 224472,
       "name": "applecore"
     },
     {
-      "fileID": 2284760,
+      "fileID": 2306858,
       "projectID": 223735,
-      "name": "aroma1997core",
-      "skipDownload": true
+      "name": "aroma1997core"
     },
     {
-      "fileID": 2277001,
+      "fileID": 2306859,
       "projectID": 225658,
-      "name": "aromabackup",
-      "skipDownload": true
+      "name": "aromabackup"
     },
     {
       "fileID": 2301094,
@@ -167,7 +165,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2304545,
+      "fileID": 2306666,
       "projectID": 238222,
       "name": "just-enough-items-jei"
     },
@@ -211,7 +209,7 @@
       "name": "psi"
     },
     {
-      "fileID": 2305799,
+      "fileID": 2306716,
       "projectID": 243121,
       "release": "beta",
       "name": "quark"
@@ -254,7 +252,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2305212,
+      "fileID": 2305889,
       "projectID": 245211,
       "name": "the-one-probe"
     },
@@ -270,7 +268,7 @@
       "name": "tis-3d"
     },
     {
-      "fileID": 2305509,
+      "fileID": 2307088,
       "projectID": 245862,
       "release": "alpha",
       "name": "zoology"
