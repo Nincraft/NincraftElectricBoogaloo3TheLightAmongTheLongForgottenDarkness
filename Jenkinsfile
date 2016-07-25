@@ -22,13 +22,13 @@ node {
           exit 0'''
    stage 'Download Common mods'
    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-          java -jar "%modpackdownloader%" common/base/mods.json common/base/mods'''
+          java -jar "%modpackdownloader%" -manifest common/base/mods.json -folder common/base/mods'''
    stage 'Download Client mods'
    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-          java -jar "%modpackdownloader%" client/base/mods.json client/base/mods'''
+          java -jar "%modpackdownloader%" -manifest client/base/mods.json -folder client/base/mods'''
    stage 'Download Server mods'
    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-          java -jar "%modpackdownloader%" server/base/mods.json server/base/mods'''
+          java -jar "%modpackdownloader%" -manifest server/base/mods.json -folder server/base/mods'''
    // Mark the code build 'stage'....
    stage 'Build Pack'
    // Get the maven tool.
