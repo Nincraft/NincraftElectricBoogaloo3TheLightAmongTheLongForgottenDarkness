@@ -1,9 +1,9 @@
 {
   "minecraft": {
-    "version": "1.9.4",
+    "version": "1.10.2",
     "modLoaders": [
       {
-        "id": "forge-12.17.0.1968",
+        "id": "forge-12.18.1.2026",
         "primary": true,
         "downloadInstaller": true,
         "release": "latest",
@@ -14,19 +14,20 @@
   },
   "files": [
     {
-      "fileID": 2307174,
+      "fileID": 2311847,
       "projectID": 224472,
       "name": "applecore"
     },
     {
-      "fileID": 2306858,
+      "fileID": 2317669,
       "projectID": 223735,
       "name": "aroma1997core"
     },
     {
       "fileID": 2306859,
       "projectID": 225658,
-      "name": "aromabackup"
+      "name": "aromabackup",
+      "skipDownload": true
     },
     {
       "fileID": 2301094,
@@ -39,13 +40,13 @@
       "name": "baubleshud"
     },
     {
-      "fileID": 2308695,
+      "fileID": 2316882,
       "projectID": 220318,
       "release": "beta",
       "name": "biomes-o-plenty"
     },
     {
-      "fileID": 2307663,
+      "fileID": 2317643,
       "projectID": 224791,
       "release": "beta",
       "name": "blood-magic"
@@ -56,16 +57,16 @@
       "name": "bloodmoon"
     },
     {
-      "fileID": 2308133,
+      "fileID": 2317488,
       "projectID": 241973,
       "release": "beta",
       "name": "botania-unofficial"
     },
     {
-      "fileID": 2299682,
+      "fileID": 2318306,
       "projectID": 231095,
-      "name": "chisels-bits",
-      "skipDownload": true
+      "release": "beta",
+      "name": "chisels-bits"
     },
     {
       "fileID": 2307711,
@@ -73,7 +74,7 @@
       "name": "combathelp"
     },
     {
-      "fileID": 2307733,
+      "fileID": 2309441,
       "projectID": 233398,
       "release": "beta",
       "name": "deep-resonance"
@@ -87,7 +88,8 @@
     {
       "fileID": 2302468,
       "projectID": 226099,
-      "name": "durability-show"
+      "name": "durability-show",
+      "skipDownload": true
     },
     {
       "fileID": 2305520,
@@ -99,7 +101,8 @@
       "fileID": 2304443,
       "projectID": 225561,
       "release": "alpha",
-      "name": "extra-utilities"
+      "name": "extra-utilities",
+      "skipDownload": true
     },
     {
       "fileID": 2301239,
@@ -107,10 +110,9 @@
       "name": "fast-leaf-decay"
     },
     {
-      "fileID": 2289394,
+      "fileID": 2311497,
       "projectID": 238590,
-      "name": "flat-colored-blocks",
-      "skipDownload": true
+      "name": "flat-colored-blocks"
     },
     {
       "fileID": 2276325,
@@ -153,10 +155,9 @@
       "skipDownload": true
     },
     {
-      "fileID": 2287489,
+      "fileID": 2315240,
       "projectID": 223094,
-      "name": "inventory-tweaks",
-      "skipDownload": true
+      "name": "inventory-tweaks"
     },
     {
       "fileID": 2279897,
@@ -165,17 +166,17 @@
       "skipDownload": true
     },
     {
-      "fileID": 2308403,
+      "fileID": 2316836,
       "projectID": 238222,
       "name": "just-enough-items-jei"
     },
     {
-      "fileID": 2308431,
+      "fileID": 2311098,
       "projectID": 74924,
       "name": "mantle"
     },
     {
-      "fileID": 2307995,
+      "fileID": 2315400,
       "projectID": 233105,
       "name": "mcjtylib"
     },
@@ -186,7 +187,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2307809,
+      "fileID": 2318500,
       "projectID": 245287,
       "name": "morph-o-tool"
     },
@@ -202,40 +203,40 @@
       "skipDownload": true
     },
     {
-      "fileID": 2308514,
+      "fileID": 2310114,
       "projectID": 241665,
       "release": "beta",
       "name": "psi"
     },
     {
-      "fileID": 2307915,
+      "fileID": 2318499,
       "projectID": 243121,
       "release": "beta",
       "name": "quark"
     },
     {
-      "fileID": 2304052,
+      "fileID": 2311431,
       "projectID": 59816,
       "name": "random-things"
     },
     {
-      "fileID": 2308177,
+      "fileID": 2315403,
       "projectID": 224641,
       "name": "rftools"
     },
     {
-      "fileID": 2307307,
+      "fileID": 2315412,
       "projectID": 240950,
       "release": "beta",
       "name": "rftools-dimensions"
     },
     {
-      "fileID": 2304449,
+      "fileID": 2309899,
       "projectID": 240566,
       "name": "simpleretrogen"
     },
     {
-      "fileID": 2305702,
+      "fileID": 2314184,
       "projectID": 241113,
       "name": "substratum"
     },
@@ -251,17 +252,17 @@
       "skipDownload": true
     },
     {
-      "fileID": 2308167,
+      "fileID": 2314046,
       "projectID": 245211,
       "name": "the-one-probe"
     },
     {
-      "fileID": 2308432,
+      "fileID": 2311099,
       "projectID": 74072,
       "name": "tinkers-construct"
     },
     {
-      "fileID": 2302430,
+      "fileID": 2309478,
       "projectID": 238603,
       "name": "tis-3d"
     },

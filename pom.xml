@@ -7,7 +7,7 @@
 	<url>http://maven.apache.org</url>
 	<packaging>pom</packaging>
 	<properties>
-		<mcVersion>1.9</mcVersion>
+		<mcVersion>1.10.2</mcVersion>
 		<build.number>SNAPSHOT</build.number>
 	</properties>
 	<build>
