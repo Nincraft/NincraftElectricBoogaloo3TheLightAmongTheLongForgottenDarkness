@@ -3,7 +3,7 @@
     "version": "1.10.2",
     "modLoaders": [
       {
-        "id": "forge-12.18.1.2026",
+        "id": "forge-12.18.1.2065",
         "primary": true,
         "downloadInstaller": true,
         "release": "latest",
@@ -14,7 +14,7 @@
   },
   "files": [
     {
-      "fileID": 2311847,
+      "fileID": 2322873,
       "projectID": 224472,
       "name": "applecore"
     },
@@ -40,13 +40,13 @@
       "name": "baubleshud"
     },
     {
-      "fileID": 2316882,
+      "fileID": 2323492,
       "projectID": 220318,
       "release": "beta",
       "name": "biomes-o-plenty"
     },
     {
-      "fileID": 2317643,
+      "fileID": 2321810,
       "projectID": 224791,
       "release": "beta",
       "name": "blood-magic"
@@ -57,13 +57,13 @@
       "name": "bloodmoon"
     },
     {
-      "fileID": 2317488,
+      "fileID": 2323315,
       "projectID": 241973,
       "release": "beta",
       "name": "botania-unofficial"
     },
     {
-      "fileID": 2318306,
+      "fileID": 2322264,
       "projectID": 231095,
       "release": "beta",
       "name": "chisels-bits"
@@ -74,7 +74,7 @@
       "name": "combathelp"
     },
     {
-      "fileID": 2309441,
+      "fileID": 2322750,
       "projectID": 233398,
       "release": "beta",
       "name": "deep-resonance"
@@ -92,7 +92,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2305520,
+      "fileID": 2321657,
       "projectID": 227391,
       "release": "beta",
       "name": "eleccore-rendering-library"
@@ -127,12 +127,12 @@
       "skipDownload": true
     },
     {
-      "fileID": 2305137,
+      "fileID": 2319383,
       "projectID": 243577,
       "name": "grapple-hooks"
     },
     {
-      "fileID": 2301058,
+      "fileID": 2320763,
       "projectID": 223797,
       "name": "helpfixer"
     },
@@ -166,17 +166,17 @@
       "skipDownload": true
     },
     {
-      "fileID": 2316836,
+      "fileID": 2323148,
       "projectID": 238222,
       "name": "just-enough-items-jei"
     },
     {
-      "fileID": 2311098,
+      "fileID": 2319362,
       "projectID": 74924,
       "name": "mantle"
     },
     {
-      "fileID": 2315400,
+      "fileID": 2319056,
       "projectID": 233105,
       "name": "mcjtylib"
     },
@@ -192,7 +192,7 @@
       "name": "morph-o-tool"
     },
     {
-      "fileID": 2303315,
+      "fileID": 2309210,
       "projectID": 235595,
       "name": "not-enough-wands"
     },
@@ -203,29 +203,29 @@
       "skipDownload": true
     },
     {
-      "fileID": 2310114,
+      "fileID": 2319176,
       "projectID": 241665,
       "release": "beta",
       "name": "psi"
     },
     {
-      "fileID": 2318499,
+      "fileID": 2323482,
       "projectID": 243121,
       "release": "beta",
       "name": "quark"
     },
     {
-      "fileID": 2311431,
+      "fileID": 2320913,
       "projectID": 59816,
       "name": "random-things"
     },
     {
-      "fileID": 2315403,
+      "fileID": 2323396,
       "projectID": 224641,
       "name": "rftools"
     },
     {
-      "fileID": 2315412,
+      "fileID": 2322333,
       "projectID": 240950,
       "release": "beta",
       "name": "rftools-dimensions"
@@ -236,7 +236,7 @@
       "name": "simpleretrogen"
     },
     {
-      "fileID": 2314184,
+      "fileID": 2319584,
       "projectID": 241113,
       "name": "substratum"
     },
@@ -252,7 +252,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2314046,
+      "fileID": 2320583,
       "projectID": 245211,
       "name": "the-one-probe"
     },
@@ -262,7 +262,7 @@
       "name": "tinkers-construct"
     },
     {
-      "fileID": 2309478,
+      "fileID": 2310532,
       "projectID": 238603,
       "name": "tis-3d"
     },
