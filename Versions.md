@@ -14,7 +14,7 @@ Current Mod Versions
 - **Biomes O' Plenty** v5.0.0.2085 by Adubbz, Amnet, Cheeserolls, Forstride, ted80
 - **Blood Magic: Alchemical Wizardry** v1.9.4-2.1.0-63 by WayofTime
 - **Bloodmoon** v1.2 by lumien
-- **Botania** r1.8-321 by Vazkii
+- **Botania** r1.9-323 by Vazkii, williewillus, wiiv, dylan4ever
 - **Chisels & Bits** v12.1 by AlgorithmX2
 - **Combat Help** v1.0.3 by McJty
 - **DeepResonance** v1.2.4 by McJty, Elec332
