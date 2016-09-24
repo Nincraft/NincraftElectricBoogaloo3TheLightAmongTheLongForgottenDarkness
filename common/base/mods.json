@@ -3,7 +3,7 @@
     "version": "1.10.2",
     "modLoaders": [
       {
-        "id": "forge-12.18.1.2065",
+        "id": "forge-12.18.1.2094",
         "primary": true,
         "downloadInstaller": true,
         "release": "latest",
@@ -14,20 +14,24 @@
   },
   "files": [
     {
-      "fileID": 2322873,
+      "fileID": 2328828,
       "projectID": 224472,
       "name": "applecore"
     },
     {
-      "fileID": 2317669,
+      "fileID": 2328970,
       "projectID": 223735,
       "name": "aroma1997core"
     },
     {
       "fileID": 2306859,
       "projectID": 225658,
-      "name": "aromabackup",
-      "skipDownload": true
+      "name": "aromabackup"
+    },
+    {
+      "fileID": 2327403,
+      "projectID": 250363,
+      "name": "autoreglib"
     },
     {
       "fileID": 2301094,
@@ -40,13 +44,13 @@
       "name": "baubleshud"
     },
     {
-      "fileID": 2323492,
+      "fileID": 2329245,
       "projectID": 220318,
       "release": "beta",
       "name": "biomes-o-plenty"
     },
     {
-      "fileID": 2321810,
+      "fileID": 2330541,
       "projectID": 224791,
       "release": "beta",
       "name": "blood-magic"
@@ -57,13 +61,13 @@
       "name": "bloodmoon"
     },
     {
-      "fileID": 2323315,
+      "fileID": 2328816,
       "projectID": 241973,
       "release": "beta",
       "name": "botania-unofficial"
     },
     {
-      "fileID": 2322264,
+      "fileID": 2325908,
       "projectID": 231095,
       "release": "beta",
       "name": "chisels-bits"
@@ -74,7 +78,7 @@
       "name": "combathelp"
     },
     {
-      "fileID": 2322750,
+      "fileID": 2331877,
       "projectID": 233398,
       "release": "beta",
       "name": "deep-resonance"
@@ -92,7 +96,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2321657,
+      "fileID": 2325968,
       "projectID": 227391,
       "release": "beta",
       "name": "eleccore-rendering-library"
@@ -105,7 +109,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2301239,
+      "fileID": 2331933,
       "projectID": 225839,
       "name": "fast-leaf-decay"
     },
@@ -130,6 +134,18 @@
       "fileID": 2319383,
       "projectID": 243577,
       "name": "grapple-hooks"
+    },
+    {
+      "fileID": 2325317,
+      "projectID": 228832,
+      "release": "alpha",
+      "name": "guide-api"
+    },
+    {
+      "fileID": 2331991,
+      "projectID": 251182,
+      "release": "beta",
+      "name": "harvest-festival"
     },
     {
       "fileID": 2320763,
@@ -166,17 +182,17 @@
       "skipDownload": true
     },
     {
-      "fileID": 2323148,
+      "fileID": 2331287,
       "projectID": 238222,
       "name": "just-enough-items-jei"
     },
     {
-      "fileID": 2319362,
+      "fileID": 2329535,
       "projectID": 74924,
       "name": "mantle"
     },
     {
-      "fileID": 2319056,
+      "fileID": 2331300,
       "projectID": 233105,
       "name": "mcjtylib"
     },
@@ -187,12 +203,12 @@
       "skipDownload": true
     },
     {
-      "fileID": 2318500,
+      "fileID": 2327812,
       "projectID": 245287,
       "name": "morph-o-tool"
     },
     {
-      "fileID": 2309210,
+      "fileID": 2331893,
       "projectID": 235595,
       "name": "not-enough-wands"
     },
@@ -203,13 +219,13 @@
       "skipDownload": true
     },
     {
-      "fileID": 2319176,
+      "fileID": 2327407,
       "projectID": 241665,
       "release": "beta",
       "name": "psi"
     },
     {
-      "fileID": 2323482,
+      "fileID": 2331721,
       "projectID": 243121,
       "release": "beta",
       "name": "quark"
@@ -220,12 +236,12 @@
       "name": "random-things"
     },
     {
-      "fileID": 2323396,
+      "fileID": 2331482,
       "projectID": 224641,
       "name": "rftools"
     },
     {
-      "fileID": 2322333,
+      "fileID": 2331286,
       "projectID": 240950,
       "release": "beta",
       "name": "rftools-dimensions"
@@ -236,7 +252,7 @@
       "name": "simpleretrogen"
     },
     {
-      "fileID": 2319584,
+      "fileID": 2327196,
       "projectID": 241113,
       "name": "substratum"
     },
@@ -252,7 +268,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2320583,
+      "fileID": 2331288,
       "projectID": 245211,
       "name": "the-one-probe"
     },
