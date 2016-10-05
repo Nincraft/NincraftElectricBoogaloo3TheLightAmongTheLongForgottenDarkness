@@ -3,7 +3,7 @@
     "version": "1.10.2",
     "modLoaders": [
       {
-        "id": "forge-12.18.1.2094",
+        "id": "forge-12.18.1.2095",
         "primary": true,
         "downloadInstaller": true,
         "release": "latest",
@@ -44,13 +44,13 @@
       "name": "baubleshud"
     },
     {
-      "fileID": 2329245,
+      "fileID": 2332944,
       "projectID": 220318,
       "release": "beta",
       "name": "biomes-o-plenty"
     },
     {
-      "fileID": 2330541,
+      "fileID": 2333147,
       "projectID": 224791,
       "release": "beta",
       "name": "blood-magic"
@@ -61,12 +61,12 @@
       "name": "bloodmoon"
     },
     {
-      "fileID": 2331821,
+      "fileID": 2334134,
       "projectID": 225643,
       "name": "botania"
     },
     {
-      "fileID": 2325908,
+      "fileID": 2334206,
       "projectID": 231095,
       "release": "beta",
       "name": "chisels-bits"
@@ -77,7 +77,7 @@
       "name": "combathelp"
     },
     {
-      "fileID": 2331877,
+      "fileID": 2333210,
       "projectID": 233398,
       "release": "beta",
       "name": "deep-resonance"
@@ -101,11 +101,10 @@
       "name": "eleccore-rendering-library"
     },
     {
-      "fileID": 2304443,
+      "fileID": 2334232,
       "projectID": 225561,
       "release": "alpha",
-      "name": "extra-utilities",
-      "skipDownload": true
+      "name": "extra-utilities"
     },
     {
       "fileID": 2331933,
@@ -113,7 +112,7 @@
       "name": "fast-leaf-decay"
     },
     {
-      "fileID": 2311497,
+      "fileID": 2333824,
       "projectID": 238590,
       "name": "flat-colored-blocks"
     },
@@ -141,7 +140,7 @@
       "name": "guide-api"
     },
     {
-      "fileID": 2331991,
+      "fileID": 2333962,
       "projectID": 251182,
       "release": "beta",
       "name": "harvest-festival"
@@ -181,7 +180,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2331287,
+      "fileID": 2334181,
       "projectID": 238222,
       "name": "just-enough-items-jei"
     },
@@ -191,7 +190,7 @@
       "name": "mantle"
     },
     {
-      "fileID": 2331300,
+      "fileID": 2332342,
       "projectID": 233105,
       "name": "mcjtylib"
     },
@@ -202,7 +201,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2327812,
+      "fileID": 2334148,
       "projectID": 245287,
       "name": "morph-o-tool"
     },
@@ -230,17 +229,17 @@
       "name": "quark"
     },
     {
-      "fileID": 2320913,
+      "fileID": 2332494,
       "projectID": 59816,
       "name": "random-things"
     },
     {
-      "fileID": 2331482,
+      "fileID": 2333044,
       "projectID": 224641,
       "name": "rftools"
     },
     {
-      "fileID": 2331286,
+      "fileID": 2332672,
       "projectID": 240950,
       "release": "beta",
       "name": "rftools-dimensions"
@@ -272,7 +271,7 @@
       "name": "the-one-probe"
     },
     {
-      "fileID": 2311099,
+      "fileID": 2333478,
       "projectID": 74072,
       "name": "tinkers-construct"
     },
