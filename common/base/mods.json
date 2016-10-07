@@ -61,7 +61,7 @@
       "name": "bloodmoon"
     },
     {
-      "fileID": 2334134,
+      "fileID": 2334526,
       "projectID": 225643,
       "name": "botania"
     },
@@ -190,7 +190,7 @@
       "name": "mantle"
     },
     {
-      "fileID": 2332342,
+      "fileID": 2334509,
       "projectID": 233105,
       "name": "mcjtylib"
     },
@@ -217,7 +217,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2327407,
+      "fileID": 2334186,
       "projectID": 241665,
       "release": "beta",
       "name": "psi"
@@ -227,6 +227,12 @@
       "projectID": 243121,
       "release": "beta",
       "name": "quark"
+    },
+    {
+      "fileID": 2334605,
+      "projectID": 51195,
+      "release": "beta",
+      "name": "railcraft"
     },
     {
       "fileID": 2332494,
@@ -266,7 +272,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2331288,
+      "fileID": 2334256,
       "projectID": 245211,
       "name": "the-one-probe"
     },

@@ -268,3 +268,4 @@ common/base/config/journeymap_ModInfo.cfg
 common/base/config/buildcraft/detailed.properties
 common/base/config/theoneprobe_client.cfg
 common/base/config/theoneprobe.cfg
+*.iml
