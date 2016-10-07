@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.nincraft</groupId>
-	<artifactId>NEB3</artifactId>
+	<artifactId>neb3</artifactId>
 	<version>0.0.1</version>
 	<name>Nincraft Electric Boogaloo 3</name>
 	<url>http://maven.apache.org</url>
@@ -9,11 +9,13 @@
 	<properties>
 		<mcVersion>1.10.2</mcVersion>
 		<build.number>SNAPSHOT</build.number>
+		<launcher.name.dev></launcher.name.dev>
+		<launcher.title.dev></launcher.title.dev>
 	</properties>
 	<build>
 		<resources>
 			<resource>
-				<directory>src/main/resources</directory>
+				<directory>launcher</directory>
 				<filtering>true</filtering>
 			</resource>
 		</resources>
@@ -54,6 +56,10 @@
 		</profile>
 		<profile>
 			<id>client-dev</id>
+			<properties>
+				<launcher.title.dev>-Dev</launcher.title.dev>
+				<launcher.name.dev>-dev</launcher.name.dev>
+			</properties>
 			<activation>
 				<property>
 					<name>profile.develop</name>
