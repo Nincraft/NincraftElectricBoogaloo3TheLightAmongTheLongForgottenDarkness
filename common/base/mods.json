@@ -3,7 +3,7 @@
     "version": "1.10.2",
     "modLoaders": [
       {
-        "id": "forge-12.18.1.2095",
+        "id": "forge-12.18.2.2099",
         "primary": true,
         "downloadInstaller": true,
         "release": "latest",
@@ -77,7 +77,7 @@
       "name": "combathelp"
     },
     {
-      "fileID": 2333210,
+      "fileID": 2335236,
       "projectID": 233398,
       "release": "beta",
       "name": "deep-resonance"
@@ -95,7 +95,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2325968,
+      "fileID": 2335372,
       "projectID": 227391,
       "release": "beta",
       "name": "eleccore-rendering-library"
@@ -140,12 +140,6 @@
       "name": "guide-api"
     },
     {
-      "fileID": 2333962,
-      "projectID": 251182,
-      "release": "beta",
-      "name": "harvest-festival"
-    },
-    {
       "fileID": 2320763,
       "projectID": 223797,
       "name": "helpfixer"
@@ -177,10 +171,10 @@
       "fileID": 2279897,
       "projectID": 228756,
       "name": "iron-chests",
-      "skipDownload": true
+      "release": "beta"
     },
     {
-      "fileID": 2334181,
+      "fileID": 2334871,
       "projectID": 238222,
       "name": "just-enough-items-jei"
     },
@@ -195,10 +189,10 @@
       "name": "mcjtylib"
     },
     {
-      "fileID": 2290800,
+      "fileID": 2321940,
       "projectID": 239431,
-      "name": "mcmultipart",
-      "skipDownload": true
+      "release": "beta",
+      "name": "mcmultipart"
     },
     {
       "fileID": 2334148,
@@ -240,12 +234,17 @@
       "name": "random-things"
     },
     {
-      "fileID": 2333044,
+      "fileID": 2334819,
+      "projectID": 243076,
+      "name": "refinded-storage"
+    },
+    {
+      "fileID": 2334902,
       "projectID": 224641,
       "name": "rftools"
     },
     {
-      "fileID": 2332672,
+      "fileID": 2334909,
       "projectID": 240950,
       "release": "beta",
       "name": "rftools-dimensions"
@@ -272,12 +271,12 @@
       "skipDownload": true
     },
     {
-      "fileID": 2334256,
+      "fileID": 2334683,
       "projectID": 245211,
       "name": "the-one-probe"
     },
     {
-      "fileID": 2333478,
+      "fileID": 2335018,
       "projectID": 74072,
       "name": "tinkers-construct"
     },
