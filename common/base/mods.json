@@ -168,10 +168,10 @@
       "name": "inventory-tweaks"
     },
     {
-      "fileID": 2279897,
+      "fileID": 2331308,
       "projectID": 228756,
-      "name": "iron-chests",
-      "release": "beta"
+      "release": "beta",
+      "name": "iron-chests"
     },
     {
       "fileID": 2334871,
