@@ -225,4 +225,24 @@
 			</build>
 		</profile>
 	</profiles>
+	<repositories>
+		<repository>
+			<id>releases</id>
+			<url>http://play.nincraft.com:8081/nexus/content/repositories/releases/</url>
+		</repository>
+		<repository>
+			<id>snapshots</id>
+			<url>http://play.nincraft.com:8081/nexus/content/repositories/snapshots/</url>
+		</repository>
+	</repositories>
+	<pluginRepositories>
+		<pluginRepository>
+			<id>releases</id>
+			<url>http://play.nincraft.com:8081/nexus/content/repositories/releases/</url>
+		</pluginRepository>
+		<pluginRepository>
+			<id>snapshots</id>
+			<url>http://play.nincraft.com:8081/nexus/content/repositories/snapshots/</url>
+		</pluginRepository>
+	</pluginRepositories>
 </project>
