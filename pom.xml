@@ -11,6 +11,7 @@
 		<build.number>SNAPSHOT</build.number>
 		<launcher.name.dev></launcher.name.dev>
 		<launcher.title.dev></launcher.title.dev>
+		<modpack.template.version>0.1</modpack.template.version>
 	</properties>
 	<build>
 		<resources>
@@ -35,6 +36,13 @@
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-assembly-plugin</artifactId>
 						<version>2.5</version>
+						<dependencies>
+							<dependency>
+								<groupId>com.nincraft</groupId>
+								<artifactId>modpack-template</artifactId>
+								<version>${modpack.template.version}</version>
+							</dependency>
+						</dependencies>
 						<executions>
 							<execution>
 								<id>client</id>
@@ -43,9 +51,9 @@
 									<goal>single</goal>
 								</goals>
 								<configuration>
-									<descriptors>
-										<descriptor>src/main/resources/assembly-client.xml</descriptor>
-									</descriptors>
+									<descriptorRefs>
+										<descriptorRef>assembly-client</descriptorRef>
+									</descriptorRefs>
 								</configuration>
 							</execution>
 						</executions>
@@ -72,6 +80,13 @@
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-assembly-plugin</artifactId>
 						<version>2.5</version>
+						<dependencies>
+							<dependency>
+								<groupId>com.nincraft</groupId>
+								<artifactId>modpack-template</artifactId>
+								<version>${modpack.template.version}</version>
+							</dependency>
+						</dependencies>
 						<executions>
 							<execution>
 								<id>client-dev</id>
@@ -80,9 +95,9 @@
 									<goal>single</goal>
 								</goals>
 								<configuration>
-									<descriptors>
-										<descriptor>src/main/resources/assembly-client-dev.xml</descriptor>
-									</descriptors>
+									<descriptorRefs>
+										<descriptorRef>assembly-client-dev</descriptorRef>
+									</descriptorRefs>
 								</configuration>
 							</execution>
 						</executions>
@@ -104,6 +119,13 @@
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-assembly-plugin</artifactId>
 						<version>2.5</version>
+						<dependencies>
+							<dependency>
+								<groupId>com.nincraft</groupId>
+								<artifactId>modpack-template</artifactId>
+								<version>${modpack.template.version}</version>
+							</dependency>
+						</dependencies>
 						<executions>
 							<execution>
 								<id>server</id>
@@ -112,9 +134,9 @@
 									<goal>single</goal>
 								</goals>
 								<configuration>
-									<descriptors>
-										<descriptor>src/main/resources/assembly-server.xml</descriptor>
-									</descriptors>
+									<descriptorRefs>
+										<descriptorRef>assembly-server</descriptorRef>
+									</descriptorRefs>
 								</configuration>
 							</execution>
 						</executions>
@@ -137,6 +159,13 @@
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-assembly-plugin</artifactId>
 						<version>2.5</version>
+						<dependencies>
+							<dependency>
+								<groupId>com.nincraft</groupId>
+								<artifactId>modpack-template</artifactId>
+								<version>${modpack.template.version}</version>
+							</dependency>
+						</dependencies>
 						<executions>
 							<execution>
 								<id>server-dev</id>
@@ -145,9 +174,9 @@
 									<goal>single</goal>
 								</goals>
 								<configuration>
-									<descriptors>
-										<descriptor>src/main/resources/assembly-server-dev.xml</descriptor>
-									</descriptors>
+									<descriptorRefs>
+										<descriptorRef>assembly-server-dev</descriptorRef>
+									</descriptorRefs>
 								</configuration>
 							</execution>
 						</executions>
@@ -169,6 +198,13 @@
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-assembly-plugin</artifactId>
 						<version>2.5</version>
+						<dependencies>
+							<dependency>
+								<groupId>com.nincraft</groupId>
+								<artifactId>modpack-template</artifactId>
+								<version>${modpack.template.version}</version>
+							</dependency>
+						</dependencies>
 						<executions>
 							<execution>
 								<id>client-ftb</id>
@@ -177,9 +213,9 @@
 									<goal>single</goal>
 								</goals>
 								<configuration>
-									<descriptors>
-										<descriptor>src/main/resources/assembly-client-ftb.xml</descriptor>
-									</descriptors>
+									<descriptorRefs>
+										<descriptorRef>assembly-client-ftb</descriptorRef>
+									</descriptorRefs>
 								</configuration>
 							</execution>
 						</executions>
@@ -189,4 +225,24 @@
 			</build>
 		</profile>
 	</profiles>
+	<repositories>
+		<repository>
+			<id>releases</id>
+			<url>http://play.nincraft.com:8081/nexus/content/repositories/releases/</url>
+		</repository>
+		<repository>
+			<id>snapshots</id>
+			<url>http://play.nincraft.com:8081/nexus/content/repositories/snapshots/</url>
+		</repository>
+	</repositories>
+	<pluginRepositories>
+		<pluginRepository>
+			<id>releases</id>
+			<url>http://play.nincraft.com:8081/nexus/content/repositories/releases/</url>
+		</pluginRepository>
+		<pluginRepository>
+			<id>snapshots</id>
+			<url>http://play.nincraft.com:8081/nexus/content/repositories/snapshots/</url>
+		</pluginRepository>
+	</pluginRepositories>
 </project>
