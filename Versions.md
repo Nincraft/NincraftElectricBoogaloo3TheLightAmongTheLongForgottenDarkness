@@ -37,6 +37,7 @@ Current Mod Versions
 - **Neat** v1.3-12 by Vazkii
 - **Nin's Mod Lister** v1.9.4-4.0+SNAPSHOT by Nincodedo
 - **Not Enough Wands** v1.3.9 by romelo333, McJty
+- **Pam's HarvestCraft** v1.9.4-1.10.2g by Pamela Collins
 - **Psi** r1.0-41 by Vazkii
 - **Quark** r1.0-57 by Vazkii, wiiv
 - **Railcraft** v10.0.0 by CovertJaguar
@@ -45,7 +46,8 @@ Current Mod Versions
 - **RFTools** v5.58 by McJty
 - **RFTools Dimensions** v4.44 by McJty
 - **Simple Retrogen** v4.0.1+8
-- **Substratum** v1.8.1.0
+- **Substratum** v1.8.2.0
+- **Super Circuit Maker** v0.0.1
 - **The One Probe** v1.2.1 by McJty
 - **Tinkers' Construct** v1.10.2-2.5.6b.jenkins424 by boni, KnightMiner
 - **TIS-3D** v0.9.0.1 by Sangar

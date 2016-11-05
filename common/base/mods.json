@@ -211,6 +211,11 @@
       "skipDownload": true
     },
     {
+      "fileID": 2341593,
+      "projectID": 221857,
+      "name": "pams-harvestcraft"
+    },
+    {
       "fileID": 2335870,
       "projectID": 241665,
       "release": "beta",
@@ -255,9 +260,15 @@
       "name": "simpleretrogen"
     },
     {
-      "fileID": 2327196,
+      "fileID": 2341975,
       "projectID": 241113,
       "name": "substratum"
+    },
+    {
+      "fileID": 2341765,
+      "projectID": 248619,
+      "release": "beta",
+      "name": "super-circuit-maker"
     },
     {
       "fileID": 2302183,
