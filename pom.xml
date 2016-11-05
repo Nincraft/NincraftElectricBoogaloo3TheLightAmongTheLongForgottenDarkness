@@ -9,9 +9,10 @@
 	<properties>
 		<mcVersion>1.10.2</mcVersion>
 		<build.number>SNAPSHOT</build.number>
-		<launcher.name.dev></launcher.name.dev>
-		<launcher.title.dev></launcher.title.dev>
 		<modpack.template.version>0.1</modpack.template.version>
+		<launcher.name.dev/>
+		<launcher.title.dev/>
+		<maven-assembly-plugin.version>2.6</maven-assembly-plugin.version>
 	</properties>
 	<build>
 		<resources>
@@ -20,7 +21,7 @@
 				<filtering>true</filtering>
 			</resource>
 		</resources>
-		<finalName>${project.artifactId} ${project.version}+${build.number}</finalName>
+		<finalName>${project.artifactId}-${project.version}+${build.number}</finalName>
 	</build>
 	<profiles>
 		<profile>
@@ -35,7 +36,7 @@
 					<plugin>
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-assembly-plugin</artifactId>
-						<version>2.5</version>
+						<version>${maven-assembly-plugin.version}</version>
 						<dependencies>
 							<dependency>
 								<groupId>com.nincraft</groupId>
@@ -79,7 +80,7 @@
 					<plugin>
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-assembly-plugin</artifactId>
-						<version>2.5</version>
+						<version>${maven-assembly-plugin.version}</version>
 						<dependencies>
 							<dependency>
 								<groupId>com.nincraft</groupId>
@@ -118,7 +119,7 @@
 					<plugin>
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-assembly-plugin</artifactId>
-						<version>2.5</version>
+						<version>${maven-assembly-plugin.version}</version>
 						<dependencies>
 							<dependency>
 								<groupId>com.nincraft</groupId>
@@ -158,7 +159,7 @@
 					<plugin>
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-assembly-plugin</artifactId>
-						<version>2.5</version>
+						<version>${maven-assembly-plugin.version}</version>
 						<dependencies>
 							<dependency>
 								<groupId>com.nincraft</groupId>
@@ -197,7 +198,7 @@
 					<plugin>
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-assembly-plugin</artifactId>
-						<version>2.5</version>
+						<version>${maven-assembly-plugin.version}</version>
 						<dependencies>
 							<dependency>
 								<groupId>com.nincraft</groupId>
