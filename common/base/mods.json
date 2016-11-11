@@ -19,7 +19,7 @@
       "name": "applecore"
     },
     {
-      "fileID": 2328970,
+      "fileID": 2342098,
       "projectID": 223735,
       "name": "aroma1997core"
     },
@@ -34,7 +34,7 @@
       "name": "autoreglib"
     },
     {
-      "fileID": 2341549,
+      "fileID": 2343318,
       "projectID": 227083,
       "name": "baubles"
     },
@@ -44,7 +44,7 @@
       "name": "baubleshud"
     },
     {
-      "fileID": 2341507,
+      "fileID": 2343023,
       "projectID": 220318,
       "release": "beta",
       "name": "biomes-o-plenty"
@@ -66,13 +66,18 @@
       "name": "botania"
     },
     {
+      "fileID": 2323186,
+      "projectID": 230497,
+      "name": "chameleon"
+    },
+    {
       "fileID": 2341112,
       "projectID": 231095,
       "release": "beta",
       "name": "chisels-bits"
     },
     {
-      "fileID": 2307711,
+      "fileID": 2342641,
       "projectID": 244975,
       "name": "combathelp"
     },
@@ -107,12 +112,12 @@
       "name": "extra-utilities"
     },
     {
-      "fileID": 2331933,
+      "fileID": 2342061,
       "projectID": 225839,
       "name": "fast-leaf-decay"
     },
     {
-      "fileID": 2333824,
+      "fileID": 2343282,
       "projectID": 238590,
       "name": "flat-colored-blocks"
     },
@@ -174,8 +179,9 @@
       "name": "iron-chests"
     },
     {
-      "fileID": 2336996,
+      "fileID": 2343417,
       "projectID": 238222,
+      "release": "beta",
       "name": "just-enough-items-jei"
     },
     {
@@ -200,7 +206,7 @@
       "name": "morph-o-tool"
     },
     {
-      "fileID": 2341201,
+      "fileID": 2342627,
       "projectID": 235595,
       "name": "not-enough-wands"
     },
@@ -222,7 +228,7 @@
       "name": "psi"
     },
     {
-      "fileID": 2339129,
+      "fileID": 2342520,
       "projectID": 243121,
       "release": "beta",
       "name": "quark"
@@ -239,17 +245,17 @@
       "name": "random-things"
     },
     {
-      "fileID": 2341572,
+      "fileID": 2343393,
       "projectID": 243076,
       "name": "refinded-storage"
     },
     {
-      "fileID": 2341179,
+      "fileID": 2342592,
       "projectID": 224641,
       "name": "rftools"
     },
     {
-      "fileID": 2341484,
+      "fileID": 2342615,
       "projectID": 240950,
       "release": "beta",
       "name": "rftools-dimensions"
@@ -260,12 +266,23 @@
       "name": "simpleretrogen"
     },
     {
+      "fileID": 2343416,
+      "projectID": 253462,
+      "release": "beta",
+      "name": "steves-carts-reborn"
+    },
+    {
+      "fileID": 2342349,
+      "projectID": 223852,
+      "name": "storage-drawers"
+    },
+    {
       "fileID": 2341975,
       "projectID": 241113,
       "name": "substratum"
     },
     {
-      "fileID": 2341765,
+      "fileID": 2343229,
       "projectID": 248619,
       "release": "beta",
       "name": "super-circuit-maker"
@@ -282,7 +299,7 @@
       "skipDownload": true
     },
     {
-      "fileID": 2341217,
+      "fileID": 2342633,
       "projectID": 245211,
       "name": "the-one-probe"
     },
