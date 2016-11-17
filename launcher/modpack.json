@@ -1,0 +1,17 @@
+{
+  "name": "${project.artifactId}${launcher.name.dev}",
+  "title": "${project.name}${launcher.title.dev}",
+  "gameVersion": "${mcVersion}",
+  "launch": {
+    "flags": [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  },
+  "userFiles": {
+    "include": [
+      "options.txt",
+      "optionsshaders.txt",
+      "mods/VoxelMods/*"
+    ]
+  }
+}

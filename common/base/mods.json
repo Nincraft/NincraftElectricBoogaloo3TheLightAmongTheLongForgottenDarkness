@@ -1,0 +1,323 @@
+{
+  "minecraft": {
+    "version": "1.10.2",
+    "modLoaders": [
+      {
+        "id": "forge-12.18.2.2121",
+        "primary": true,
+        "downloadInstaller": true,
+        "release": "latest",
+        "name": "forge",
+        "folder": "common/base/loaders"
+      }
+    ]
+  },
+  "files": [
+    {
+      "fileID": 2328828,
+      "projectID": 224472,
+      "name": "applecore"
+    },
+    {
+      "fileID": 2342098,
+      "projectID": 223735,
+      "name": "aroma1997core"
+    },
+    {
+      "fileID": 2306859,
+      "projectID": 225658,
+      "name": "aromabackup"
+    },
+    {
+      "fileID": 2327403,
+      "projectID": 250363,
+      "name": "autoreglib"
+    },
+    {
+      "fileID": 2343318,
+      "projectID": 227083,
+      "name": "baubles"
+    },
+    {
+      "fileID": 2341776,
+      "projectID": 230751,
+      "name": "baubleshud"
+    },
+    {
+      "fileID": 2343023,
+      "projectID": 220318,
+      "release": "beta",
+      "name": "biomes-o-plenty"
+    },
+    {
+      "fileID": 2338612,
+      "projectID": 224791,
+      "release": "beta",
+      "name": "blood-magic"
+    },
+    {
+      "fileID": 2301408,
+      "projectID": 226321,
+      "name": "bloodmoon"
+    },
+    {
+      "fileID": 2341055,
+      "projectID": 225643,
+      "name": "botania"
+    },
+    {
+      "fileID": 2323186,
+      "projectID": 230497,
+      "name": "chameleon"
+    },
+    {
+      "fileID": 2341112,
+      "projectID": 231095,
+      "release": "beta",
+      "name": "chisels-bits"
+    },
+    {
+      "fileID": 2342641,
+      "projectID": 244975,
+      "name": "combathelp"
+    },
+    {
+      "fileID": 2335236,
+      "projectID": 233398,
+      "release": "beta",
+      "name": "deep-resonance"
+    },
+    {
+      "fileID": 2285948,
+      "projectID": 224942,
+      "name": "dense-ores",
+      "skipDownload": true
+    },
+    {
+      "fileID": 2302468,
+      "projectID": 226099,
+      "name": "durability-show",
+      "skipDownload": true
+    },
+    {
+      "fileID": 2336826,
+      "projectID": 227391,
+      "release": "beta",
+      "name": "eleccore-rendering-library"
+    },
+    {
+      "fileID": 2334232,
+      "projectID": 225561,
+      "release": "alpha",
+      "name": "extra-utilities"
+    },
+    {
+      "fileID": 2342061,
+      "projectID": 225839,
+      "name": "fast-leaf-decay"
+    },
+    {
+      "fileID": 2343282,
+      "projectID": 238590,
+      "name": "flat-colored-blocks"
+    },
+    {
+      "fileID": 2276325,
+      "projectID": 237102,
+      "name": "ftb-utilities",
+      "skipDownload": true
+    },
+    {
+      "fileID": 2276324,
+      "projectID": 237167,
+      "name": "ftblib",
+      "skipDownload": true
+    },
+    {
+      "fileID": 2319383,
+      "projectID": 243577,
+      "name": "grapple-hooks"
+    },
+    {
+      "fileID": 2325317,
+      "projectID": 228832,
+      "release": "alpha",
+      "name": "guide-api"
+    },
+    {
+      "fileID": 2320763,
+      "projectID": 223797,
+      "name": "helpfixer"
+    },
+    {
+      "fileID": 2335901,
+      "projectID": 241268,
+      "name": "immersive-craft"
+    },
+    {
+      "fileID": 2285583,
+      "projectID": 241925,
+      "name": "in-case-of-emergency",
+      "skipDownload": true
+    },
+    {
+      "fileID": 2284654,
+      "projectID": 241350,
+      "release": "beta",
+      "name": "intangible",
+      "skipDownload": true
+    },
+    {
+      "fileID": 2315240,
+      "projectID": 223094,
+      "name": "inventory-tweaks"
+    },
+    {
+      "fileID": 2331308,
+      "projectID": 228756,
+      "release": "beta",
+      "name": "iron-chests"
+    },
+    {
+      "fileID": 2343417,
+      "projectID": 238222,
+      "release": "beta",
+      "name": "just-enough-items-jei"
+    },
+    {
+      "fileID": 2338788,
+      "projectID": 74924,
+      "name": "mantle"
+    },
+    {
+      "fileID": 2337887,
+      "projectID": 233105,
+      "name": "mcjtylib"
+    },
+    {
+      "fileID": 2340729,
+      "projectID": 239431,
+      "release": "beta",
+      "name": "mcmultipart"
+    },
+    {
+      "fileID": 2334148,
+      "projectID": 245287,
+      "name": "morph-o-tool"
+    },
+    {
+      "fileID": 2342627,
+      "projectID": 235595,
+      "name": "not-enough-wands"
+    },
+    {
+      "fileID": 2280569,
+      "projectID": 223008,
+      "name": "opencomputers",
+      "skipDownload": true
+    },
+    {
+      "fileID": 2341593,
+      "projectID": 221857,
+      "name": "pams-harvestcraft"
+    },
+    {
+      "fileID": 2335870,
+      "projectID": 241665,
+      "release": "beta",
+      "name": "psi"
+    },
+    {
+      "fileID": 2342520,
+      "projectID": 243121,
+      "release": "beta",
+      "name": "quark"
+    },
+    {
+      "fileID": 2340859,
+      "projectID": 51195,
+      "release": "beta",
+      "name": "railcraft"
+    },
+    {
+      "fileID": 2332494,
+      "projectID": 59816,
+      "name": "random-things"
+    },
+    {
+      "fileID": 2343393,
+      "projectID": 243076,
+      "name": "refinded-storage"
+    },
+    {
+      "fileID": 2342592,
+      "projectID": 224641,
+      "name": "rftools"
+    },
+    {
+      "fileID": 2342615,
+      "projectID": 240950,
+      "release": "beta",
+      "name": "rftools-dimensions"
+    },
+    {
+      "fileID": 2309899,
+      "projectID": 240566,
+      "name": "simpleretrogen"
+    },
+    {
+      "fileID": 2343416,
+      "projectID": 253462,
+      "release": "beta",
+      "name": "steves-carts-reborn"
+    },
+    {
+      "fileID": 2342349,
+      "projectID": 223852,
+      "name": "storage-drawers"
+    },
+    {
+      "fileID": 2341975,
+      "projectID": 241113,
+      "name": "substratum"
+    },
+    {
+      "fileID": 2343229,
+      "projectID": 248619,
+      "release": "beta",
+      "name": "super-circuit-maker"
+    },
+    {
+      "fileID": 2302183,
+      "projectID": 244862,
+      "name": "tehnuts-torcherino"
+    },
+    {
+      "fileID": 2287496,
+      "projectID": 223628,
+      "name": "thaumcraft",
+      "skipDownload": true
+    },
+    {
+      "fileID": 2342633,
+      "projectID": 245211,
+      "name": "the-one-probe"
+    },
+    {
+      "fileID": 2338518,
+      "projectID": 74072,
+      "name": "tinkers-construct"
+    },
+    {
+      "fileID": 2310532,
+      "projectID": 238603,
+      "name": "tis-3d"
+    },
+    {
+      "fileID": 2307088,
+      "projectID": 245862,
+      "release": "alpha",
+      "name": "zoology"
+    }
+  ]
+}

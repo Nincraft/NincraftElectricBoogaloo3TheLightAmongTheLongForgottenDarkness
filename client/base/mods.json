@@ -1,0 +1,22 @@
+{
+  "minecraft": {
+    "version": "1.10.2"
+  },
+  "files": [
+    {
+      "fileID": 2311745,
+      "projectID": 224223,
+      "name": "better-title-screen"
+    },
+    {
+      "fileID": 2311898,
+      "projectID": 32274,
+      "name": "journeymap-32274"
+    },
+    {
+      "fileID": 2327663,
+      "projectID": 238372,
+      "name": "neat"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+Current Forge Version
+=
+- **Forge** v12.18.2.2121
+
+Current Mod Versions
+=
+- **AppleCore** v2.0.1 by squeek
+- **Aroma1997Core** v${version} by Aroma1997, Schillaa
+- **AromaBackup** v1.0.1.1
+- **AutoRegLib** v1.0-2 by Vazkii
+- **Baubles** v1.3.3 by Azanor
+- **Baubles-Hud** v3.2.0 by Gigabit101
+- **Better Title Screen** v1.2e by Girafi, Amadornes
+- **Biomes O' Plenty** v5.0.0.2093 by Adubbz, Amnet, Cheeserolls, Forstride, ted80
+- **Blood Magic: Alchemical Wizardry** v1.9.4-2.1.0-66 by WayofTime
+- **Bloodmoon** v1.2 by lumien
+- **Botania** r1.9-337 by Vazkii, williewillus, wiiv, dylan4ever
+- **Chameleon** v1.10-2.1.7 by jaquadro
+- **Chisels & Bits** v12.7 by AlgorithmX2
+- **Combat Help** v1.0.4 by McJty
+- **DeepResonance** v1.2.9 by McJty, Elec332
+- **ElecCore** v1.6.328 by Elec332
+- **ExtraUtils2** v1.0
+- **Fast Leave Decay** v1.2.3 by lumien
+- **Flat Colored Blocks** vmc1.10-v4.4 by AlgorithmX2
+- **Grapple Hooks** v1.0.8
+- **Guide-API** v@VERSION@ by Tombenpotter, TehNut
+- **HelpFixer** v1.0
+- **Immersive Craft** v1.1.8 by McJty
+- **Inventory Tweaks** v1.61-58-a1fd884
+- **Iron Chest** v1.10.2-7.0.11.797 by cpw
+- **JourneyMap** v1.10.2-5.2.4 by techbrew, mysticdrew
+- **Just Enough Items** v3.13.2.362 by mezz
+- **Loading Profiler** v1.1 by lumien
+- **Mantle** v1.10.2-1.1.1.194 by boni, progWML6, Alexbegt
+- **MCMultiPart** v1.3.0
+- **Morph-o-Tool** v1.0-12 by Vazkii
+- **Neat** v1.3-12 by Vazkii
+- **Nin's Mod Lister** v1.9.4-4.0+SNAPSHOT by Nincodedo
+- **Not Enough Wands** v1.4.0 by romelo333, McJty
+- **Pam's HarvestCraft** v1.9.4-1.10.2g by Pamela Collins
+- **Psi** r1.0-41 by Vazkii
+- **Quark** r1.0-59 by Vazkii, wiiv
+- **Railcraft** v10.0.0 by CovertJaguar
+- **Random Things** v3.7.6 by Lumien
+- **Refined Storage** v1.2.4 by Refined Storage contributors
+- **RFTools** v5.59 by McJty
+- **RFTools Dimensions** v4.45 by McJty
+- **Simple Retrogen** v4.0.1+8
+- **Steve's Carts 2** v2.0.0.b18
+- **Storage Drawers** v1.10.2-3.4.2 by jaquadro
+- **Substratum** v1.8.2.0
+- **Super Circuit Maker** v1.0.3 by amadornes
+- **The One Probe** v1.2.2 by McJty
+- **Tinkers' Construct** v1.10.2-2.5.6b.jenkins424 by boni, KnightMiner
+- **TIS-3D** v0.9.0.1 by Sangar
+- **Torcherino** v1.9.4-2.4.0 by TehNut
+- **Zoology** v1.0
