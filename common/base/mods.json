@@ -3,7 +3,7 @@
     "version": "1.10.2",
     "modLoaders": [
       {
-        "id": "forge-12.18.2.2121",
+        "id": "forge-12.18.3.2185",
         "primary": true,
         "downloadInstaller": true,
         "release": "latest",
@@ -14,7 +14,7 @@
   },
   "files": [
     {
-      "fileID": 2328828,
+      "fileID": 2344411,
       "projectID": 224472,
       "name": "applecore"
     },
@@ -34,7 +34,7 @@
       "name": "autoreglib"
     },
     {
-      "fileID": 2343318,
+      "fileID": 2353526,
       "projectID": 227083,
       "name": "baubles"
     },
@@ -44,34 +44,34 @@
       "name": "baubleshud"
     },
     {
-      "fileID": 2343023,
+      "fileID": 2347456,
       "projectID": 220318,
       "release": "beta",
       "name": "biomes-o-plenty"
     },
     {
-      "fileID": 2338612,
+      "fileID": 2353245,
       "projectID": 224791,
       "release": "beta",
       "name": "blood-magic"
     },
     {
-      "fileID": 2301408,
+      "fileID": 2349407,
       "projectID": 226321,
       "name": "bloodmoon"
     },
     {
-      "fileID": 2341055,
+      "fileID": 2347211,
       "projectID": 225643,
       "name": "botania"
     },
     {
-      "fileID": 2323186,
+      "fileID": 2354330,
       "projectID": 230497,
       "name": "chameleon"
     },
     {
-      "fileID": 2341112,
+      "fileID": 2350460,
       "projectID": 231095,
       "release": "beta",
       "name": "chisels-bits"
@@ -82,7 +82,7 @@
       "name": "combathelp"
     },
     {
-      "fileID": 2335236,
+      "fileID": 2346727,
       "projectID": 233398,
       "release": "beta",
       "name": "deep-resonance"
@@ -100,13 +100,13 @@
       "skipDownload": true
     },
     {
-      "fileID": 2336826,
+      "fileID": 2352315,
       "projectID": 227391,
       "release": "beta",
       "name": "eleccore-rendering-library"
     },
     {
-      "fileID": 2334232,
+      "fileID": 2352596,
       "projectID": 225561,
       "release": "alpha",
       "name": "extra-utilities"
@@ -179,13 +179,13 @@
       "name": "iron-chests"
     },
     {
-      "fileID": 2343417,
+      "fileID": 2353931,
       "projectID": 238222,
       "release": "beta",
       "name": "just-enough-items-jei"
     },
     {
-      "fileID": 2338788,
+      "fileID": 2353326,
       "projectID": 74924,
       "name": "mantle"
     },
@@ -211,7 +211,7 @@
       "name": "not-enough-wands"
     },
     {
-      "fileID": 2280569,
+      "fileID": 2344182,
       "projectID": 223008,
       "name": "opencomputers",
       "skipDownload": true
@@ -222,35 +222,35 @@
       "name": "pams-harvestcraft"
     },
     {
-      "fileID": 2335870,
+      "fileID": 2347126,
       "projectID": 241665,
       "release": "beta",
       "name": "psi"
     },
     {
-      "fileID": 2342520,
+      "fileID": 2354531,
       "projectID": 243121,
       "release": "beta",
       "name": "quark"
     },
     {
-      "fileID": 2340859,
+      "fileID": 2350816,
       "projectID": 51195,
       "release": "beta",
       "name": "railcraft"
     },
     {
-      "fileID": 2332494,
+      "fileID": 2346174,
       "projectID": 59816,
       "name": "random-things"
     },
     {
-      "fileID": 2343393,
+      "fileID": 2354564,
       "projectID": 243076,
       "name": "refinded-storage"
     },
     {
-      "fileID": 2342592,
+      "fileID": 2346481,
       "projectID": 224641,
       "name": "rftools"
     },
@@ -266,23 +266,23 @@
       "name": "simpleretrogen"
     },
     {
-      "fileID": 2343416,
+      "fileID": 2349377,
       "projectID": 253462,
       "release": "beta",
       "name": "steves-carts-reborn"
     },
     {
-      "fileID": 2342349,
+      "fileID": 2353147,
       "projectID": 223852,
       "name": "storage-drawers"
     },
     {
-      "fileID": 2341975,
+      "fileID": 2348679,
       "projectID": 241113,
       "name": "substratum"
     },
     {
-      "fileID": 2343229,
+      "fileID": 2343952,
       "projectID": 248619,
       "release": "beta",
       "name": "super-circuit-maker"
@@ -299,19 +299,14 @@
       "skipDownload": true
     },
     {
-      "fileID": 2342633,
+      "fileID": 2344420,
       "projectID": 245211,
       "name": "the-one-probe"
     },
     {
-      "fileID": 2338518,
+      "fileID": 2353329,
       "projectID": 74072,
       "name": "tinkers-construct"
-    },
-    {
-      "fileID": 2310532,
-      "projectID": 238603,
-      "name": "tis-3d"
     },
     {
       "fileID": 2307088,

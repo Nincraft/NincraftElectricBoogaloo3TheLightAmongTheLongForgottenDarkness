@@ -269,3 +269,4 @@ common/base/config/buildcraft/detailed.properties
 common/base/config/theoneprobe_client.cfg
 common/base/config/theoneprobe.cfg
 *.iml
+.idea/
