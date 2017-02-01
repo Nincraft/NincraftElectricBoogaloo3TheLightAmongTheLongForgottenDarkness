@@ -3,7 +3,7 @@
     "version": "1.10.2",
     "modLoaders": [
       {
-        "id": "forge-12.18.3.2185",
+        "id": "forge-12.18.3.2221",
         "primary": true,
         "downloadInstaller": true,
         "release": "latest",
@@ -34,7 +34,7 @@
       "name": "autoreglib"
     },
     {
-      "fileID": 2353526,
+      "fileID": 2375820,
       "projectID": 227083,
       "name": "baubles"
     },
@@ -44,7 +44,7 @@
       "name": "baubleshud"
     },
     {
-      "fileID": 2347456,
+      "fileID": 2374278,
       "projectID": 220318,
       "release": "beta",
       "name": "biomes-o-plenty"
@@ -56,22 +56,22 @@
       "name": "blood-magic"
     },
     {
-      "fileID": 2349407,
+      "fileID": 2358752,
       "projectID": 226321,
       "name": "bloodmoon"
     },
     {
-      "fileID": 2347211,
+      "fileID": 2371359,
       "projectID": 225643,
       "name": "botania"
     },
     {
-      "fileID": 2354330,
+      "fileID": 2355632,
       "projectID": 230497,
       "name": "chameleon"
     },
     {
-      "fileID": 2350460,
+      "fileID": 2368823,
       "projectID": 231095,
       "release": "beta",
       "name": "chisels-bits"
@@ -100,13 +100,13 @@
       "skipDownload": true
     },
     {
-      "fileID": 2352315,
+      "fileID": 2364987,
       "projectID": 227391,
       "release": "beta",
       "name": "eleccore-rendering-library"
     },
     {
-      "fileID": 2352596,
+      "fileID": 2372191,
       "projectID": 225561,
       "release": "alpha",
       "name": "extra-utilities"
@@ -122,13 +122,13 @@
       "name": "flat-colored-blocks"
     },
     {
-      "fileID": 2276325,
+      "fileID": 2376219,
       "projectID": 237102,
       "name": "ftb-utilities",
       "skipDownload": true
     },
     {
-      "fileID": 2276324,
+      "fileID": 2376218,
       "projectID": 237167,
       "name": "ftblib",
       "skipDownload": true
@@ -179,13 +179,13 @@
       "name": "iron-chests"
     },
     {
-      "fileID": 2353931,
+      "fileID": 2369465,
       "projectID": 238222,
       "release": "beta",
       "name": "just-enough-items-jei"
     },
     {
-      "fileID": 2353326,
+      "fileID": 2366244,
       "projectID": 74924,
       "name": "mantle"
     },
@@ -211,7 +211,7 @@
       "name": "not-enough-wands"
     },
     {
-      "fileID": 2344182,
+      "fileID": 2357267,
       "projectID": 223008,
       "name": "opencomputers",
       "skipDownload": true
@@ -228,7 +228,7 @@
       "name": "psi"
     },
     {
-      "fileID": 2354531,
+      "fileID": 2363413,
       "projectID": 243121,
       "release": "beta",
       "name": "quark"
@@ -245,7 +245,7 @@
       "name": "random-things"
     },
     {
-      "fileID": 2354564,
+      "fileID": 2371496,
       "projectID": 243076,
       "name": "refinded-storage"
     },
@@ -266,13 +266,13 @@
       "name": "simpleretrogen"
     },
     {
-      "fileID": 2349377,
+      "fileID": 2376276,
       "projectID": 253462,
       "release": "beta",
       "name": "steves-carts-reborn"
     },
     {
-      "fileID": 2353147,
+      "fileID": 2367220,
       "projectID": 223852,
       "name": "storage-drawers"
     },
@@ -313,6 +313,12 @@
       "projectID": 245862,
       "release": "alpha",
       "name": "zoology"
+    }
+  ],
+  "thirdParty": [
+    {
+      "url": "http://asie.pl/foamfix/foamfix-0.5.3-anarchy.jar",
+      "name": "foamfix"
     }
   ]
 }
