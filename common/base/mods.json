@@ -1,9 +1,9 @@
 {
   "minecraft": {
-    "version": "1.10.2",
+    "version": "1.11.2",
     "modLoaders": [
       {
-        "id": "forge-12.18.3.2221",
+        "id": "forge-13.20.0.2312",
         "primary": true,
         "downloadInstaller": true,
         "release": "latest",
@@ -14,310 +14,415 @@
   },
   "files": [
     {
-      "fileID": 2344411,
-      "projectID": 224472,
-      "name": "applecore"
+      "fileID": 2426025,
+      "projectID": 228404,
+      "name": "actually-additions"
     },
     {
-      "fileID": 2342098,
+      "fileID": 2424186,
+      "projectID": 236542,
+      "name": "advanced-rocketry"
+    },
+    {
+      "fileID": 2363589,
+      "projectID": 250577,
+      "name": "akashic-tome"
+    },
+    {
+      "fileID": 2371205,
+      "projectID": 248787,
+      "name": "appleskin"
+    },
+    {
+      "fileID": 2412506,
       "projectID": 223735,
       "name": "aroma1997core"
     },
     {
-      "fileID": 2306859,
+      "fileID": 2412514,
       "projectID": 225658,
       "name": "aromabackup"
     },
     {
-      "fileID": 2327403,
+      "fileID": 2420203,
+      "projectID": 241721,
+      "name": "astral-sorcery"
+    },
+    {
+      "fileID": 2363585,
       "projectID": 250363,
       "name": "autoreglib"
     },
     {
-      "fileID": 2375820,
+      "fileID": 2391048,
+      "projectID": 261348,
+      "name": "avaritia-1-10"
+    },
+    {
+      "fileID": 2424450,
       "projectID": 227083,
       "name": "baubles"
     },
     {
-      "fileID": 2341776,
-      "projectID": 230751,
-      "name": "baubleshud"
+      "fileID": 2394397,
+      "projectID": 238403,
+      "name": "better-builders-wands"
     },
     {
-      "fileID": 2374278,
+      "fileID": 2426410,
+      "projectID": 228027,
+      "name": "bibliocraft"
+    },
+    {
+      "fileID": 2426406,
       "projectID": 220318,
-      "release": "beta",
       "name": "biomes-o-plenty"
     },
     {
-      "fileID": 2353245,
+      "fileID": 2417670,
       "projectID": 224791,
-      "release": "beta",
       "name": "blood-magic"
     },
     {
-      "fileID": 2358752,
-      "projectID": 226321,
-      "name": "bloodmoon"
-    },
-    {
-      "fileID": 2371359,
+      "fileID": 2411460,
       "projectID": 225643,
       "name": "botania"
     },
     {
-      "fileID": 2355632,
+      "fileID": 2427231,
+      "projectID": 61811,
+      "release": "alpha",
+      "name": "buildcraft"
+    },
+    {
+      "fileID": 2419176,
       "projectID": 230497,
       "name": "chameleon"
     },
     {
-      "fileID": 2368823,
+      "fileID": 2408740,
+      "projectID": 235279,
+      "name": "chisel"
+    },
+    {
+      "fileID": 2380918,
       "projectID": 231095,
-      "release": "beta",
       "name": "chisels-bits"
     },
     {
-      "fileID": 2342641,
-      "projectID": 244975,
-      "name": "combathelp"
+      "fileID": 2405949,
+      "projectID": 242818,
+      "name": "codechicken-lib-1-8"
     },
     {
-      "fileID": 2346727,
+      "fileID": 2422230,
+      "projectID": 224218,
+      "name": "compact-machines"
+    },
+    {
+      "fileID": 2423624,
+      "projectID": 253729,
+      "name": "compatlayer"
+    },
+    {
+      "fileID": 2407142,
+      "projectID": 248042,
+      "name": "cyberware"
+    },
+    {
+      "fileID": 2414542,
+      "projectID": 79616,
+      "name": "decocraft2"
+    },
+    {
+      "fileID": 2418068,
       "projectID": 233398,
-      "release": "beta",
       "name": "deep-resonance"
     },
     {
-      "fileID": 2285948,
+      "fileID": 2422718,
       "projectID": 224942,
-      "name": "dense-ores",
-      "skipDownload": true
+      "name": "dense-ores"
     },
     {
-      "fileID": 2302468,
-      "projectID": 226099,
-      "name": "durability-show",
-      "skipDownload": true
+      "fileID": 2346985,
+      "projectID": 231275,
+      "name": "ding"
     },
     {
-      "fileID": 2364987,
+      "fileID": 2401300,
+      "projectID": 238891,
+      "name": "dynamic-surroundings"
+    },
+    {
+      "fileID": 2425224,
       "projectID": 227391,
-      "release": "beta",
       "name": "eleccore-rendering-library"
     },
     {
-      "fileID": 2372191,
+      "fileID": 2425364,
+      "projectID": 251918,
+      "name": "embers"
+    },
+    {
+      "fileID": 2405965,
+      "projectID": 245174,
+      "name": "ender-storage-1-8"
+    },
+    {
+      "fileID": 2427513,
+      "projectID": 225247,
+      "name": "ender-zoo"
+    },
+    {
+      "fileID": 2410739,
       "projectID": 225561,
-      "release": "alpha",
       "name": "extra-utilities"
     },
     {
-      "fileID": 2342061,
-      "projectID": 225839,
+      "fileID": 2346619,
+      "projectID": 230976,
       "name": "fast-leaf-decay"
     },
     {
-      "fileID": 2343282,
-      "projectID": 238590,
-      "name": "flat-colored-blocks"
+      "fileID": 2400268,
+      "projectID": 248020,
+      "name": "flux-networks"
     },
     {
-      "fileID": 2376219,
-      "projectID": 237102,
-      "name": "ftb-utilities",
-      "skipDownload": true
-    },
-    {
-      "fileID": 2376218,
-      "projectID": 237167,
-      "name": "ftblib",
-      "skipDownload": true
-    },
-    {
-      "fileID": 2319383,
+      "fileID": 2424238,
       "projectID": 243577,
       "name": "grapple-hooks"
     },
     {
-      "fileID": 2325317,
+      "fileID": 2366880,
+      "projectID": 238551,
+      "name": "gravestone-mod"
+    },
+    {
+      "fileID": 2416399,
       "projectID": 228832,
-      "release": "alpha",
       "name": "guide-api"
     },
     {
-      "fileID": 2320763,
-      "projectID": 223797,
-      "name": "helpfixer"
-    },
-    {
-      "fileID": 2335901,
-      "projectID": 241268,
-      "name": "immersive-craft"
-    },
-    {
-      "fileID": 2285583,
-      "projectID": 241925,
-      "name": "in-case-of-emergency",
-      "skipDownload": true
-    },
-    {
-      "fileID": 2284654,
-      "projectID": 241350,
-      "release": "beta",
-      "name": "intangible",
-      "skipDownload": true
-    },
-    {
-      "fileID": 2315240,
+      "fileID": 2423787,
       "projectID": 223094,
       "name": "inventory-tweaks"
     },
     {
-      "fileID": 2331308,
+      "fileID": 2421006,
       "projectID": 228756,
-      "release": "beta",
       "name": "iron-chests"
     },
     {
-      "fileID": 2369465,
+      "fileID": 2415966,
+      "projectID": 224535,
+      "name": "ivtoolkit"
+    },
+    {
+      "fileID": 2419877,
       "projectID": 238222,
-      "release": "beta",
       "name": "just-enough-items-jei"
     },
     {
-      "fileID": 2366244,
+      "fileID": 2363438,
+      "projectID": 240630,
+      "name": "just-enough-resources-jer"
+    },
+    {
+      "fileID": 2424187,
+      "projectID": 236541,
+      "name": "libvulpes"
+    },
+    {
+      "fileID": 2417835,
+      "projectID": 253021,
+      "name": "literal-ascension"
+    },
+    {
+      "fileID": 2418098,
+      "projectID": 243298,
+      "name": "llibrary"
+    },
+    {
+      "fileID": 2413993,
       "projectID": 74924,
       "name": "mantle"
     },
     {
-      "fileID": 2337887,
+      "fileID": 2395314,
       "projectID": 233105,
       "name": "mcjtylib"
     },
     {
-      "fileID": 2340729,
-      "projectID": 239431,
-      "release": "beta",
-      "name": "mcmultipart"
+      "fileID": 2429101,
+      "projectID": 269013,
+      "name": "meltery"
     },
     {
-      "fileID": 2334148,
+      "fileID": 2424598,
+      "projectID": 245506,
+      "name": "minecolonies"
+    },
+    {
+      "fileID": 2408205,
+      "projectID": 238747,
+      "name": "mod-name-tooltip"
+    },
+    {
+      "fileID": 2363504,
       "projectID": 245287,
       "name": "morph-o-tool"
     },
     {
-      "fileID": 2342627,
+      "fileID": 2421243,
+      "projectID": 69118,
+      "name": "morpheus"
+    },
+    {
+      "fileID": 2424932,
+      "projectID": 244940,
+      "name": "mputils"
+    },
+    {
+      "fileID": 2427346,
+      "projectID": 74120,
+      "name": "natura"
+    },
+    {
+      "fileID": 2363507,
+      "projectID": 238372,
+      "name": "neat"
+    },
+    {
+      "fileID": 2345495,
+      "projectID": 241160,
+      "name": "netherportalfix"
+    },
+    {
+      "fileID": 2355689,
+      "projectID": 226035,
+      "name": "nonausea"
+    },
+    {
+      "fileID": 2420435,
       "projectID": 235595,
       "name": "not-enough-wands"
     },
     {
-      "fileID": 2357267,
-      "projectID": 223008,
-      "name": "opencomputers",
-      "skipDownload": true
+      "fileID": 2427584,
+      "projectID": 250832,
+      "name": "openblocks-elevator"
     },
     {
-      "fileID": 2341593,
+      "fileID": 2420220,
+      "projectID": 223008,
+      "name": "opencomputers"
+    },
+    {
+      "fileID": 2410937,
       "projectID": 221857,
       "name": "pams-harvestcraft"
     },
     {
-      "fileID": 2347126,
+      "fileID": 2398122,
       "projectID": 241665,
-      "release": "beta",
       "name": "psi"
     },
     {
-      "fileID": 2363413,
+      "fileID": 2421536,
       "projectID": 243121,
-      "release": "beta",
       "name": "quark"
     },
     {
-      "fileID": 2350816,
-      "projectID": 51195,
-      "release": "beta",
-      "name": "railcraft"
+      "fileID": 2428672,
+      "projectID": 237903,
+      "name": "reborncore"
     },
     {
-      "fileID": 2346174,
-      "projectID": 59816,
-      "name": "random-things"
+      "fileID": 2426685,
+      "projectID": 223150,
+      "name": "recurrent-complex"
     },
     {
-      "fileID": 2371496,
+      "fileID": 2424653,
       "projectID": 243076,
-      "name": "refinded-storage"
+      "name": "refined-storage"
     },
     {
-      "fileID": 2346481,
+      "fileID": 2420388,
       "projectID": 224641,
       "name": "rftools"
     },
     {
-      "fileID": 2342615,
+      "fileID": 2414893,
+      "projectID": 250763,
+      "name": "rftools-control"
+    },
+    {
+      "fileID": 2393501,
       "projectID": 240950,
-      "release": "beta",
       "name": "rftools-dimensions"
     },
     {
-      "fileID": 2309899,
-      "projectID": 240566,
-      "name": "simpleretrogen"
+      "fileID": 2413458,
+      "projectID": 248453,
+      "name": "shadowfacts-forgelin"
     },
     {
-      "fileID": 2376276,
+      "fileID": 2400267,
+      "projectID": 239418,
+      "name": "sonar-core"
+    },
+    {
+      "fileID": 2423611,
       "projectID": 253462,
-      "release": "beta",
       "name": "steves-carts-reborn"
     },
     {
-      "fileID": 2367220,
+      "fileID": 2424388,
       "projectID": 223852,
       "name": "storage-drawers"
     },
     {
-      "fileID": 2348679,
-      "projectID": 241113,
-      "name": "substratum"
-    },
-    {
-      "fileID": 2343952,
-      "projectID": 248619,
-      "release": "beta",
-      "name": "super-circuit-maker"
-    },
-    {
-      "fileID": 2302183,
-      "projectID": 244862,
-      "name": "tehnuts-torcherino"
-    },
-    {
-      "fileID": 2287496,
-      "projectID": 223628,
-      "name": "thaumcraft",
-      "skipDownload": true
-    },
-    {
-      "fileID": 2344420,
+      "fileID": 2420012,
       "projectID": 245211,
       "name": "the-one-probe"
     },
     {
-      "fileID": 2353329,
+      "fileID": 2425965,
       "projectID": 74072,
       "name": "tinkers-construct"
     },
     {
-      "fileID": 2307088,
-      "projectID": 245862,
-      "release": "alpha",
-      "name": "zoology"
+      "fileID": 2396298,
+      "projectID": 236794,
+      "name": "torcherino"
+    },
+    {
+      "fileID": 2411371,
+      "projectID": 244258,
+      "name": "unidict"
+    },
+    {
+      "fileID": 2361140,
+      "projectID": 67133,
+      "name": "veinminer"
+    },
+    {
+      "fileID": 2411369,
+      "projectID": 253043,
+      "name": "wanionlib"
+    },
+    {
+      "fileID": 2421417,
+      "projectID": 245755,
+      "name": "waystones"
     }
   ],
   "thirdParty": [
     {
-      "url": "http://asie.pl/foamfix/foamfix-0.5.3-anarchy.jar",
+      "url": "http://asie.pl/files/minecraft/foamfix-0.6.3-anarchy.jar",
       "name": "foamfix"
     }
   ]

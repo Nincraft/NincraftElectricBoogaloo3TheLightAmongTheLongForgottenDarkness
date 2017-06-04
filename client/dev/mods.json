@@ -1,10 +1,10 @@
 {
   "minecraft": {
-    "version": "1.10.2"
+    "version": "1.11.2"
   },
   "files": [
     {
-      "fileID": 2301416,
+      "fileID": 2355691,
       "projectID": 228513,
       "name": "loading-profiler"
     }
